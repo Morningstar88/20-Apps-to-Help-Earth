@@ -4,7 +4,12 @@
 
 <h1 align="center">Production Apps</h2>
 
-<h2 align="center">Problem: Food waste. Earth throws away half of it's food.</h2> 
+
+
+
+
+
+<h1 align="center">Problem: Food waste. Earth throws away half of it's food.</h2> 
 
 ##Food Sharing Apps
 
@@ -31,7 +36,7 @@ http://fortune.com/2015/04/16/could-these-apps-solve-americas-huge-food-waste-pr
 
 
 
-<h2 align="center">Problem: Computer Education is Expensive.</h2>
+<h1 align="center">Problem: Computer Education is Expensive.</h2>
 
 ##Free Computer Education
 
