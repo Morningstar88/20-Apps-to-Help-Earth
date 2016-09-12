@@ -1,4 +1,4 @@
-# 20-Apps-to-Help-Earth
+# 20-Apps-to-Help-Earth :bulb:
 
 ####We have most of the technology we need to run our own affairs, without interference from large scale organizations. This is a list of production/prototype mobile and web apps that solve water shortages, deforestation, poverty, job creation, microfinance. 
 
