@@ -4,7 +4,6 @@
 
 
 ##Problem: Food waste. Earth throws away half of it's food. 
-##Solution: Food sharing apps.
 
 #Food Sharing Apps
 
