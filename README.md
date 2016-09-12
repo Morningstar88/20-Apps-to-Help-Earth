@@ -28,20 +28,21 @@
 
 ##Food Sharing Apps
 
-http://olioex.com/
+- http://olioex.com/
 
-http://wastenofood.org
+- http://wastenofood.org
 
 ##Food Sharing Apps Direct Downloads
 
 ##Waste No Food
-https://play.google.com/store/apps/details?id=com.wastenofood.app&hl=en
 
-https://itunes.apple.com/us/app/wastenofood/id866786935?mt=8
+- https://play.google.com/store/apps/details?id=com.wastenofood.app&hl=en
+
+- https://itunes.apple.com/us/app/wastenofood/id866786935?mt=8
 
 ##Media
 
-http://fortune.com/2015/04/16/could-these-apps-solve-americas-huge-food-waste-problem/
+- http://fortune.com/2015/04/16/could-these-apps-solve-americas-huge-food-waste-problem/
 
 
 
@@ -55,12 +56,12 @@ http://fortune.com/2015/04/16/could-these-apps-solve-americas-huge-food-waste-pr
 
 ##Free Computer Education
 
-www.freecodecamp.com (currently the best teaching tool on the internet, and it's free)
+- www.freecodecamp.com (currently the best teaching tool on the internet, and it's free)
 
 
 ##Fair priced computer education
 
-https://academy.zenva.com/
+- https://academy.zenva.com/
 
 
 
@@ -71,15 +72,15 @@ https://academy.zenva.com/
 
 <h1 align="center">Tree-planting Apps</h1>
 
-https://github.com/Microflow/Treekachu
+- https://github.com/Microflow/Treekachu
 
 Idea here:
 
-https://www.reddit.com/r/SomebodyMakeThis/comments/50lqav/smt_treekachu_a_pokemon_go_clone_for_treeplanting/
+- https://www.reddit.com/r/SomebodyMakeThis/comments/50lqav/smt_treekachu_a_pokemon_go_clone_for_treeplanting/
 
 Original here: 
 
-https://github.com/VctrySam/Pokemon
+- https://github.com/VctrySam/Pokemon
 
 
 
@@ -88,7 +89,7 @@ https://github.com/VctrySam/Pokemon
 
 Hackathons focused on microfinance, tree-plating etc. 
 
-http://codepen.io/Teeke/pen/dXapmA
+- http://codepen.io/Teeke/pen/dXapmA
 
 
 
