@@ -54,12 +54,12 @@ Media
 
 <h1 align="center">Problem: Computer Education is Expensive.</h2>
 
-##Free Computer Education
+<h1 align="center">Free Computer Education</h1>
 
 - www.freecodecamp.com (currently the best teaching tool on the internet, and it's free)
 
 
-##Fair priced computer education
+<h1 align="center">Fair priced computer education<h1>
 
 - https://academy.zenva.com/
 
