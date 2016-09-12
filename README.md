@@ -9,12 +9,14 @@ Solution: Food sharing apps.
 #Apps
 
 http://olioex.com/
+
 http://wastenofood.org
 
 ##Direct Downloads
 
 ###Waste No Food
 https://play.google.com/store/apps/details?id=com.wastenofood.app&hl=en
+
 https://itunes.apple.com/us/app/wastenofood/id866786935?mt=8
 
 #Media
