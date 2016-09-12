@@ -26,21 +26,21 @@
 
 <h1 align="center">Problem: Food waste. Earth throws away half of its food.</h2> 
 
-##Food Sharing Apps
+Food Sharing Apps
 
 - http://olioex.com/
 
 - http://wastenofood.org
 
-##Food Sharing Apps Direct Downloads
+Food Sharing Apps Direct Downloads
 
-##Waste No Food
+Waste No Food
 
 - https://play.google.com/store/apps/details?id=com.wastenofood.app&hl=en
 
 - https://itunes.apple.com/us/app/wastenofood/id866786935?mt=8
 
-##Media
+Media
 
 - http://fortune.com/2015/04/16/could-these-apps-solve-americas-huge-food-waste-problem/
 
