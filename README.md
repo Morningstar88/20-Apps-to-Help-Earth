@@ -22,3 +22,25 @@ https://itunes.apple.com/us/app/wastenofood/id866786935?mt=8
 
 http://fortune.com/2015/04/16/could-these-apps-solve-americas-huge-food-waste-problem/
 
+
+
+*
+
+
+
+##Computer Education 
+
+Problem: Computer Education is Expensive.
+
+##Free Computer Education
+
+www.freecodecamp.com (currently the best teaching tool on the internet, and it's free)
+
+
+##Fair priced computer education
+
+https://academy.zenva.com/
+
+
+
+
