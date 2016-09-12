@@ -2,7 +2,17 @@
 
 ![Title](http://i.imgur.com/zvU5EHg.jpg)
 
-####We have most of the technology we need to run our own affairs, without interference from large scale organizations. This is a list of production/prototype mobile and web apps that solve water shortages, deforestation, poverty, job creation, microfinance. 
+###We have most of the technology we need to run our own affairs, without interference from large scale organizations. This is a list of production/prototype mobile and web apps that solve water shortages, deforestation, poverty, job creation, microfinance. 
+<br><br><br><br>
+
+###Part One: Production Ready Apps.
+- Food Sharing Apps.
+- Free Computer Education.
+- Fair Priced Computer Courses.
+
+###Part Two: Unfinished Prototypes/
+- Tree Plating Apps.
+
 
 <h1 align="center">Production Apps</h2>
 
