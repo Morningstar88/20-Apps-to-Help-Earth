@@ -1,6 +1,6 @@
 <h1 align="center"> 20-Apps-to-Help-Earth :bulb:</h1>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/NdM3M"><a href="//imgur.com/NdM3M"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[Imgur](http://i.imgur.com/zvU5EHg.jpg)
 
 ####We have most of the technology we need to run our own affairs, without interference from large scale organizations. This is a list of production/prototype mobile and web apps that solve water shortages, deforestation, poverty, job creation, microfinance. 
 
@@ -74,7 +74,7 @@ https://github.com/VctrySam/Pokemon
 
 
 
-<h1 align="center">Hackathon Homepages<h1>
+<h1 align="center">Hackathons Homepages<h1>
 
 Hackathons focused on microfinance, tree-plating etc. 
 
