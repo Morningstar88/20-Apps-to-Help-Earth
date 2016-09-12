@@ -3,10 +3,10 @@
 ####We have most of the technology we need to run our own affairs, without interference from large scale organizations. This is a list of production/prototype mobile and web apps that solve water shortages, deforestation, poverty, job creation, microfinance. 
 
 
-Problem: Food waste. Earth throws away half of it's food. 
-Solution: Food sharing apps.
+##Problem: Food waste. Earth throws away half of it's food. 
+##Solution: Food sharing apps.
 
-#Apps
+#Food Sharing Apps
 
 http://olioex.com/
 
