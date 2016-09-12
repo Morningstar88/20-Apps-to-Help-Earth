@@ -57,7 +57,7 @@ https://academy.zenva.com/
 
 <h1 align="center">Prototype Apps</h1>
 
-![Prototypes](http://imgur.com/a/DkEpN)
+![Prototypes](http://imgur.com/DkEpN)
 
 <h1 align="center">Tree-planting Apps</h1>
 
