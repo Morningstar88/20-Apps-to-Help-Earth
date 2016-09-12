@@ -1,10 +1,10 @@
-# 20-Apps-to-Help-Earth :bulb:
+<h1 align="center"> 20-Apps-to-Help-Earth :bulb:</h1>
 
 ####We have most of the technology we need to run our own affairs, without interference from large scale organizations. This is a list of production/prototype mobile and web apps that solve water shortages, deforestation, poverty, job creation, microfinance. 
 
-<h2 align="center">Production Apps</h2>
+<h1 align="center">Production Apps</h2>
 
-##Problem: Food waste. Earth throws away half of it's food. 
+<h2 align="center">Problem: Food waste. Earth throws away half of it's food.</h2> 
 
 ##Food Sharing Apps
 
@@ -29,9 +29,9 @@ http://fortune.com/2015/04/16/could-these-apps-solve-americas-huge-food-waste-pr
 
 
 
-##Computer Education 
 
-Problem: Computer Education is Expensive.
+
+<h2 align="center">Problem: Computer Education is Expensive.</h2>
 
 ##Free Computer Education
 
