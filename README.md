@@ -26,21 +26,21 @@
 
 <h1 align="center">Problem: Food waste. Earth throws away half of its food.</h2> 
 
-Food Sharing Apps
+<h2 align="center">Food Sharing Apps</h2>
 
 - http://olioex.com/
 
 - http://wastenofood.org
 
-Food Sharing Apps Direct Downloads
+<h2 align="center">Food Sharing Apps Direct Downloads</h2>
 
-Waste No Food
+<h2 align="center">Waste No Food</h2>
 
 - https://play.google.com/store/apps/details?id=com.wastenofood.app&hl=en
 
 - https://itunes.apple.com/us/app/wastenofood/id866786935?mt=8
 
-Media
+<h2 align="center">Media</h2>
 
 - http://fortune.com/2015/04/16/could-these-apps-solve-americas-huge-food-waste-problem/
 
@@ -59,7 +59,9 @@ Media
 - www.freecodecamp.com (currently the best teaching tool on the internet, and it's free)
 
 
-<h1 align="center">Fair priced computer education<h1>
+<h1 align="center">Fair priced computer education</h1>
+
+
 
 - https://academy.zenva.com/
 
