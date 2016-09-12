@@ -24,7 +24,7 @@
 
 
 
-<h1 align="center">Problem: Food waste. Earth throws away half of it's food.</h2> 
+<h1 align="center">Problem: Food waste. Earth throws away half of its food.</h2> 
 
 ##Food Sharing Apps
 
