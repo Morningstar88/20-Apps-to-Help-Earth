@@ -49,4 +49,17 @@ https://academy.zenva.com/
 
 
 
+<h1 align="center">Tree-planting Apps</h1>
+
+Want to fork this, to make Treekachu:
+
+Idea here:
+
+https://www.reddit.com/r/SomebodyMakeThis/comments/50lqav/smt_treekachu_a_pokemon_go_clone_for_treeplanting/
+
+Original here: 
+
+https://github.com/VctrySam/Pokemon
+
+
 
