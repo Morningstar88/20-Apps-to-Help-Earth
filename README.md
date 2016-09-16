@@ -52,6 +52,10 @@
 
 <br><br><br>
 
+<h2 align="center">Tree Planting</h2>
+
+<href ="https://www.ecosia.org">Ecosia Search Engine</a> - A Browser that plants trees. Over 500,000 trees planted. 
+
 <h1 align="center">Problem: Computer Education is Expensive.</h2>
 
 <img src="http://i.imgur.com/42bYJfQ.jpg">
