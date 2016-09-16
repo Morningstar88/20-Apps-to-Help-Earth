@@ -54,6 +54,8 @@
 
 <h1 align="center">Problem: Computer Education is Expensive.</h2>
 
+<img src="http://i.imgur.com/42bYJfQ.jpg">
+
 <h1 align="center">Free Computer Education</h1>
 
 - <a href="www.freecodecamp.com">Free Code Camp</a>
