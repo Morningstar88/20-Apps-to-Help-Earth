@@ -22,33 +22,33 @@
 
 <h2 align="center">Food Sharing Apps + Websites</h2>
 
-<a href="http://robinhoodarmy.com/">Robin Hood Army</a> Decentralized group that takes no donations. Feeds surplus restaurant food to the poor. 
+<a href="http://robinhoodarmy.com/">Robin Hood Army</a> - Decentralized group that takes no donations. Feeds surplus restaurant food to the poor. 
 
 <br>
 
-<a href="https://www.youtube.com/watch?v=MB5YaETLJNk">Robin Hood Army BBC newsclip</a> - Overview of the Robin Hood Army in Action.
+- <a href="https://www.youtube.com/watch?v=MB5YaETLJNk">Robin Hood Army BBC newsclip</a> - Overview of the Robin Hood Army in Action.
 
 <br>
 
-<a href="http://olioex.com">Olioex</a> Connects Shops and Neighbours so food can be shared. Over 100,000 items shared between 80,000 people. 
+- <a href="http://olioex.com">Olioex</a> - Connects Shops and Neighbours so food can be shared. Over 100,000 items shared between 80,000 people. 
 
 <br>
 
-<a href="http://wastenofood.org">WasteNoFood</a>
+- <a href="http://wastenofood.org">WasteNoFood</a>
 
 <h2 align="center">Food Sharing Apps on Google Play and Itunes</h2>
 
-<a href="https://play.google.com/store/apps/details?id=com.wastenofood.app&hl=en">Waste No Food: Google Play</a>
+- <a href="https://play.google.com/store/apps/details?id=com.wastenofood.app&hl=en">Waste No Food: Google Play</a>
 
 <br>
 
-<a href="https://itunes.apple.com/us/app/wastenofood/id866786935?mt=8">Waste No Food: Itunes</a>
+- <a href="https://itunes.apple.com/us/app/wastenofood/id866786935?mt=8">Waste No Food: Itunes</a>
 
 <br>
 
 <h2 align="center">Food Sharing Media</h2>
 
-<a href="http://fortune.com/2015/04/16/could-these-apps-solve-americas-huge-food-waste-problem/">Forbes on Food Sharing Apps</a>
+- <a href="http://fortune.com/2015/04/16/could-these-apps-solve-americas-huge-food-waste-problem/">Forbes on Food Sharing Apps</a>
 
 <br><br><br>
 
@@ -56,11 +56,11 @@
 
 <h1 align="center">Free Computer Education</h1>
 
-<a href="www.freecodecamp.com">Free Code Camp</a>
+- <a href="www.freecodecamp.com">Free Code Camp</a>
 
-<h1 align="center">Fair priced computer education</h1>
+- <h1 align="center">Fair priced computer education</h1>
 
-<a href="https://academy.zenva.com">Zenva Academy</a>
+- <a href="https://academy.zenva.com">Zenva Academy</a>
 
 <br><br><br>
 
