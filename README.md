@@ -38,15 +38,19 @@
 
 <a href="http://olioex.com">Olioex</a>
 
+<br>
+
 <a href="http://wastenofood.org">WasteNoFood</a>
 
 <h2 align="center">Food Sharing Apps Direct Downloads</h2>
 
 <h2 align="center">Waste No Food</h2>
 
-- https://play.google.com/store/apps/details?id=com.wastenofood.app&hl=en
+<a href="http://robinhoodarmy.com/">Robin Hood Army</a>
 
-- https://itunes.apple.com/us/app/wastenofood/id866786935?mt=8
+<a href="https://play.google.com/store/apps/details?id=com.wastenofood.app&hl=en">Waste No Food: GooglePlay</a>
+
+<a href="https://itunes.apple.com/us/app/wastenofood/id866786935?mt=8">Waste No Food, Itunes</a>
 
 <h2 align="center">Media</h2>
 
