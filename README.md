@@ -8,7 +8,7 @@
 
 
 <h2>This is a collection of mobile and web apps that solve water shortages, deforestation, poverty, unemployment, microfinance. We have most of the technology we need to run our own affairs, without interference from large scale organizations.</h2> 
-<br><br><br><br>
+
 
 <h2>Part One: Production Ready Apps.</h2>
 - Food Sharing Apps.
@@ -16,7 +16,7 @@
 - Fair Priced Computer Courses.
 
 <h2>Part Two: Unfinished Prototypes</h2>
-- Tree Plating Apps.
+- Tree Planting Apps.
 
 
 <h1 align="center">Production Apps</h2>
@@ -48,9 +48,15 @@
 
 <a href="http://robinhoodarmy.com/">Robin Hood Army</a>
 
-<a href="https://play.google.com/store/apps/details?id=com.wastenofood.app&hl=en">Waste No Food: GooglePlay</a>
+<br>
 
-<a href="https://itunes.apple.com/us/app/wastenofood/id866786935?mt=8">Waste No Food, Itunes</a>
+<a href="https://play.google.com/store/apps/details?id=com.wastenofood.app&hl=en">Waste No Food: Google Play</a>
+
+<br>
+
+<a href="https://itunes.apple.com/us/app/wastenofood/id866786935?mt=8">Waste No Food: Itunes</a>
+
+<br>
 
 <h2 align="center">Media</h2>
 
