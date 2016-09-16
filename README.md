@@ -19,7 +19,7 @@
 
 
 <h2 align="center">Apps You Can Download Now</h2>
-<p align="center'>
+<p align="center">
 <img src="http://i.imgur.com/25fikTd.jpg" text-align="center">
 </p>
 
