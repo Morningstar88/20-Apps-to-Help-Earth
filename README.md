@@ -19,7 +19,7 @@
 - Tree Planting Apps.
 
 
-<h1 align="center">Production Apps</h2>
+<h1 align="center">Apps You can Download Now</h2>
 
 
 
@@ -34,7 +34,11 @@
 
 <h1 align="center">Problem: Food waste. Earth throws away half of its food.</h2> 
 
-<h2 align="center">Food Sharing Apps</h2>
+<h2 align="center">Food Sharing Apps + Websites</h2>
+
+<a href="http://robinhoodarmy.com/">Robin Hood Army</a>
+
+<br>
 
 <a href="http://olioex.com">Olioex</a>
 
@@ -44,12 +48,6 @@
 
 <h2 align="center">Food Sharing Apps Direct Downloads</h2>
 
-<h2 align="center">Waste No Food</h2>
-
-<a href="http://robinhoodarmy.com/">Robin Hood Army</a>
-
-<br>
-
 <a href="https://play.google.com/store/apps/details?id=com.wastenofood.app&hl=en">Waste No Food: Google Play</a>
 
 <br>
@@ -58,7 +56,7 @@
 
 <br>
 
-<h2 align="center">Media</h2>
+<h2 align="center">Food Waste Media</h2>
 
 - http://fortune.com/2015/04/16/could-these-apps-solve-americas-huge-food-waste-problem/
 
