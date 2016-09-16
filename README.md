@@ -32,9 +32,9 @@
 
 <h2 align="center">Food Sharing Apps</h2>
 
-- http://olioex.com/
+<a href="http://olioex.com">Olioex</a>
 
-- http://wastenofood.org
+<a href="http://wastenofood.org">WasteNoFood</a>
 
 <h2 align="center">Food Sharing Apps Direct Downloads</h2>
 
