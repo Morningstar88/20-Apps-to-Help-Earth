@@ -14,7 +14,7 @@
 <h2>Part Two: Unfinished Prototypes</h2>
 - Tree Planting Apps.
 
-<h1 align="center">Apps You Can Download Now</h2>
+<h2 align="center">Apps You Can Download Now</h2>
 
 <img src="http://i.imgur.com/25fikTd.jpg" text-align="center">
 
@@ -60,22 +60,22 @@
 
 <img src="http://i.imgur.com/42bYJfQ.jpg">
 
-<h1 align="center">Free Computer Education</h1>
+<h2 align="center">Free Computer Education</h2>
 
 - <a href="www.freecodecamp.com">Free Code Camp</a>
 
-<h1 align="center">Fair priced computer education</h1>
+<h2 align="center">Fair priced computer education</h2>
 
 - <a href="https://academy.zenva.com">Zenva Academy</a>
 
 <br><br><br>
 
 
-<h1 align="center">Prototype Apps</h1>
+<h2 align="center">Prototype Apps</h2>
 
 ![Prototypes](http://i.imgur.com/v6w17QK.jpg)
 
-<h1 align="center">Tree-planting Apps</h1>
+<h2 align="center">Tree-planting Apps</h2>
 
 - <a href="https://github.com/Microflow/Treekachu">Treekachu on Github</a>
 
@@ -90,7 +90,7 @@ Original Repo here:
 <br><br><br>
 
 
-<h1 align="center">Hackathon Homepages<h1>
+<h2 align="center">Hackathon Homepages<h2>
 
 Hackathons focused on Microfinance, tree-planting etc. 
 
@@ -98,25 +98,25 @@ Hackathons focused on Microfinance, tree-planting etc.
 
 <br><br><br>
 
-<h1 align="center">Multi-Font Wisdom Quote Web App</h2>
+<h2 align="center">Multi-Font Wisdom Quote Web App</h2>
 
 <br<<br><br>
 
-<h1 align="center">Buy Some Give One Marketplace</h1>
+<h2 align="center">Buy Some Give One Marketplace</h2>
 
 <br><br><br>
 
-<h1 align="center">65% Donation App</h1>
+<h2 align="center">65% Donation App</h2>
 
 <br><br><br>
 
-<h1 align="center">Fundmatch<h1>
+<h2 align="center">Fundmatch<h2>
 
 <br><br><br>
 
-<h1 align="center">The Real Farmville</h1>
+<h2 align="center">The Real Farmville</h2>
 
-<h1 align="center">Longevity Research</h1>
+<h2 align="center">Longevity Research</h2>
 
 - Link to Avalon and Longecity.
 
