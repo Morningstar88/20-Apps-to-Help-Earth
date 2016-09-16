@@ -23,6 +23,7 @@
 <h2 align="center">Food Sharing Apps + Websites</h2>
 
 <a href="http://robinhoodarmy.com/">Robin Hood Army</a>
+<a href="https://www.youtube.com/watch?v=MB5YaETLJNk">Robin Hood Army BBC newsclip</a>
 
 <br>
 
@@ -42,9 +43,9 @@
 
 <br>
 
-<h2 align="center">Food Waste Media</h2>
+<h2 align="center">Food Sharing Media</h2>
 
-- http://fortune.com/2015/04/16/could-these-apps-solve-americas-huge-food-waste-problem/
+<a href="http://fortune.com/2015/04/16/could-these-apps-solve-americas-huge-food-waste-problem/">Forbes on Food Sharing Apps</a>
 
 
 
