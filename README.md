@@ -4,9 +4,9 @@
 
 <img src="http://i.imgur.com/zvU5EHg.jpg" "text-align:center">
 
-<h2>This is a collection of mobile and web apps that solve water shortages, deforestation, poverty, unemployment, and food waste. In 2016, we can create decentralized social change, without coporate interference...</h2> 
+<h2>This is a collection of mobile and web apps that solve water shortages, deforestation, poverty, unemployment, and food waste. In 2016, we can create decentralized social change, without corporate interference...</h2> 
 
-<h2>Part One: Production Ready Apps.</h2>
+<h2>Part One: Apps You Can Download Now.</h2>
 - Food Sharing Apps.
 - Free Computer Education.
 - Fair Priced Computer Courses.
