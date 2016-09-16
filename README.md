@@ -22,7 +22,7 @@
 
 <h2 align="center">Food Sharing Apps + Websites</h2>
 
-<a href="http://robinhoodarmy.com/">Robin Hood Army</a> - Decentralized group that takes no donations. Feeds surplus restaurant food to the poor. 
+- <a href="http://robinhoodarmy.com/">Robin Hood Army</a> - Decentralized group that takes no donations. Feeds surplus restaurant food to the poor. 
 
 <br>
 
@@ -58,7 +58,7 @@
 
 - <a href="www.freecodecamp.com">Free Code Camp</a>
 
-- <h1 align="center">Fair priced computer education</h1>
+<h1 align="center">Fair priced computer education</h1>
 
 - <a href="https://academy.zenva.com">Zenva Academy</a>
 
