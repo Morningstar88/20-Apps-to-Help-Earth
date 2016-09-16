@@ -1,10 +1,6 @@
 <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 
-<style>
-body {
-font-family: 'Raleway', sans-serif;
-}
-</style>
+
 
 <h1 align="center"> 20-Apps-to-Help-Earth :bulb:</h1>
 
@@ -108,4 +104,10 @@ Hackathons focused on microfinance, tree-plating etc.
 
 
 
+*
 
+<style>
+body {
+font-family: 'Raleway', sans-serif;
+}
+</style>
