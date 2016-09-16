@@ -26,7 +26,7 @@
 
 
 
-![Title](http://i.imgur.com/25fikTd.jpg)
+<img src="http://i.imgur.com/25fikTd.jpg">
 
 <h1 align="center">Problem: Food waste. Earth throws away half of its food.</h2> 
 
