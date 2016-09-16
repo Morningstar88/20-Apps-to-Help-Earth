@@ -3,7 +3,7 @@
 <img src="http://i.imgur.com/zvU5EHg.jpg" "text-align:center">
 
 
-<h2>This is a collection of mobile and web apps that solve water shortages, deforestation, poverty, job creation, microfinance. We have most of the technology we need to run our own affairs, without interference from large scale organizations.</h2> 
+<h2>This is a collection of mobile and web apps that solve water shortages, deforestation, poverty, unemployment, microfinance. We have most of the technology we need to run our own affairs, without interference from large scale organizations.</h2> 
 <br><br><br><br>
 
 <h2>Part One: Production Ready Apps.</h2>
