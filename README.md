@@ -1,14 +1,10 @@
 <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 
-
-
 <h1 align="center"> 20-Apps-to-Help-Earth :bulb:</h1>
 
 <img src="http://i.imgur.com/zvU5EHg.jpg" "text-align:center">
 
-
 <h2>This is a collection of mobile and web apps that solve water shortages, deforestation, poverty, unemployment, and food waste. In 2016, we have the technology to create decentralized social change, without interference from large scale organizations.</h2> 
-
 
 <h2>Part One: Production Ready Apps.</h2>
 - Food Sharing Apps.
@@ -18,17 +14,7 @@
 <h2>Part Two: Unfinished Prototypes</h2>
 - Tree Planting Apps.
 
-
-<h1 align="center">Apps You can Download Now</h2>
-
-
-
-
-
-
-
-
-
+<h1 align="center">Apps You Can Download Now</h2>
 
 <img src="http://i.imgur.com/25fikTd.jpg" text-align="center">
 
@@ -46,7 +32,7 @@
 
 <a href="http://wastenofood.org">WasteNoFood</a>
 
-<h2 align="center">Food Sharing Apps Direct Downloads</h2>
+<h2 align="center">Food Sharing Apps on Google Play and Itunes</h2>
 
 <a href="https://play.google.com/store/apps/details?id=com.wastenofood.app&hl=en">Waste No Food: Google Play</a>
 
@@ -72,14 +58,11 @@
 
 <h1 align="center">Free Computer Education</h1>
 
-- www.freecodecamp.com (currently the best teaching tool on the internet, and it's free)
-
+<a href="www.freecodecamp.com">Free Code Camp</a>
 
 <h1 align="center">Fair priced computer education</h1>
 
-
-
-- https://academy.zenva.com/
+<a href="https://academy.zenva.com">Zenva Academy</a>
 
 
 
