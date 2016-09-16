@@ -73,24 +73,24 @@
 
 <h1 align="center">Tree-planting Apps</h1>
 
-- https://github.com/Microflow/Treekachu
+- <a href="https://github.com/Microflow/Treekachu">Treekachu on Github</a>
 
 Idea here:
 
-- https://www.reddit.com/r/SomebodyMakeThis/comments/50lqav/smt_treekachu_a_pokemon_go_clone_for_treeplanting/
+- <a href="https://www.reddit.com/r/SomebodyMakeThis/comments/50lqav/smt_treekachu_a_pokemon_go_clone_for_treeplanting">Treekachu stress-tested on Reddit</a>
 
-Original here: 
+Original Repo here: 
 
-- https://github.com/VctrySam/Pokemon
-
-
+- <a href="https://github.com/VctrySam/Pokemon">Pokemon React Native Clone</a>
 
 
-<h1 align="center">Hackathons Homepages<h1>
 
-Hackathons focused on microfinance, tree-plating etc. 
 
-- http://codepen.io/Teeke/pen/dXapmA
+<h1 align="center">Hackathon Homepages<h1>
+
+Hackathons focused on Microfinance, tree-planting etc. 
+
+<a href="http://codepen.io/Teeke/pen/dXapmA">Hackathon Homepage on Codepen</a>
 
 
 
