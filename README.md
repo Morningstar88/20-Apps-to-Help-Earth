@@ -1,6 +1,6 @@
 <h1 align="center"> 20-Apps-to-Help-Earth :bulb:</h1>
 
-<img src="http://i.imgur.com/zvU5EHg.jpg" align="center">
+<img src="http://i.imgur.com/zvU5EHg.jpg" align="middle">
 
 
 ###This is a collection of mobile and web apps that solve water shortages, deforestation, poverty, job creation, microfinance. We have most of the technology we need to run our own affairs, without interference from large scale organizations. 
@@ -26,7 +26,7 @@
 
 
 
-<img src="http://i.imgur.com/25fikTd.jpg" align="center">
+<img src="http://i.imgur.com/25fikTd.jpg" align="middle">
 
 <h1 align="center">Problem: Food waste. Earth throws away half of its food.</h2> 
 
