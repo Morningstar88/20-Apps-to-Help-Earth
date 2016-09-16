@@ -4,7 +4,7 @@
 
 <img src="http://i.imgur.com/zvU5EHg.jpg" "text-align:center">
 
-<h2>This is a collection of mobile and web apps that solve water shortages, deforestation, poverty, unemployment, and food waste. In 2016, we can create decentralized social change, without corporate interference...</h2> 
+<h2>A collection of mobile and web apps solving water shortages, deforestation, poverty, unemployment, and food waste. In 2016, we can create decentralized change without corporate interference...</h2> 
 
 <h2>Part One: Apps You Can Download Now.</h2>
 - Food Sharing Apps.
@@ -94,8 +94,25 @@ Hackathons focused on Microfinance, tree-planting etc.
 
 <br><br><br>
 
+<h1 align="center">Multi-Font Wisdom Quote Web App</h2>
 
-*
+<br<<br><br>
+
+<h1 align="center">Longevity Research</h1>
+
+- Link to Avalon and Longecity.
+ 
+<h1 align="center">Buy Some Give One Marketplace</h1>
+
+<br><br><br>
+
+<h1 align="center">65% Donation App</h1>
+
+<br><br><br>
+
+<h1 align="center">Fundmatch<h1>
+
+<br><br><br>
 
 <style>
 body {
