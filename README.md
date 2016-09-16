@@ -2,9 +2,12 @@
 
 <h1 align="center"> 20-Apps-to-Help-Earth :bulb:</h1>
 
+<p align="center>
 <img src="http://i.imgur.com/zvU5EHg.jpg" "text-align:center">
-h
+
 <h2>A collection of mobile and web apps solving water shortages, deforestation, poverty, unemployment, and food waste. In 2016, we can create decentralized change without corporate interference...</h2> 
+</p>
+
 
 <h2>Part One: Apps You Can Download Now.</h2>
 - Food Sharing Apps.
