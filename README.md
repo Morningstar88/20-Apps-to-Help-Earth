@@ -1,3 +1,11 @@
+<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+
+<style>
+body {
+font-family: 'Raleway', sans-serif;
+}
+</style>
+
 <h1 align="center"> 20-Apps-to-Help-Earth :bulb:</h1>
 
 <img src="http://i.imgur.com/zvU5EHg.jpg" "text-align:center">
