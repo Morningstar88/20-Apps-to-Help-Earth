@@ -22,15 +22,15 @@
 
 <h2 align="center">Food Sharing Apps + Websites</h2>
 
-<a href="http://robinhoodarmy.com/">Robin Hood Army</a>
+<a href="http://robinhoodarmy.com/">Robin Hood Army</a> Decentralized group that takes no donations. Feeds surplus restaurant food to the poor. 
 
 <br>
 
-<a href="https://www.youtube.com/watch?v=MB5YaETLJNk">Robin Hood Army BBC newsclip</a>
+<a href="https://www.youtube.com/watch?v=MB5YaETLJNk">Robin Hood Army BBC newsclip</a> - Overview of the Robin Hood Army in Action.
 
 <br>
 
-<a href="http://olioex.com">Olioex</a>
+<a href="http://olioex.com">Olioex</a> Connects Shops and Neighbours so food can be shared. Over 100,000 items shared between 80,000 people. 
 
 <br>
 
