@@ -3,7 +3,7 @@
 <h1 align="center"> 20-Apps-to-Help-Earth :bulb:</h1>
 
 <img src="http://i.imgur.com/zvU5EHg.jpg" "text-align:center">
-
+h
 <h2>A collection of mobile and web apps solving water shortages, deforestation, poverty, unemployment, and food waste. In 2016, we can create decentralized change without corporate interference...</h2> 
 
 <h2>Part One: Apps You Can Download Now.</h2>
@@ -18,7 +18,7 @@
 
 <img src="http://i.imgur.com/25fikTd.jpg" text-align="center">
 
-<h1 align="center">Problem: Food waste. Earth throws away half of its food.</h2> 
+<h2 align="center">Problem: Food waste. Earth throws away half of its food.</h2> 
 
 <h2 align="center">Food Sharing Apps + Websites</h2>
 
@@ -56,7 +56,7 @@
 
 <href ="https://www.ecosia.org">Ecosia Search Engine</a> - A Browser that plants trees. Over 500,000 trees planted. 
 
-<h1 align="center">Problem: Computer Education is Expensive.</h2>
+<h2 align="center">Problem: Computer Education is Expensive.</h2>
 
 <img src="http://i.imgur.com/42bYJfQ.jpg">
 
