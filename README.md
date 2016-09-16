@@ -17,9 +17,11 @@
 <h2>Part Two: Unfinished Prototypes</h2>
 - Tree Planting Apps.
 
+<p align="center'>
 <h2 align="center">Apps You Can Download Now</h2>
 
 <img src="http://i.imgur.com/25fikTd.jpg" text-align="center">
+</p>
 
 <h2 align="center">Problem: Food waste. Earth throws away half of its food.</h2> 
 
