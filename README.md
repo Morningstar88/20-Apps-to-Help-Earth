@@ -1,17 +1,17 @@
 <h1 align="center"> 20-Apps-to-Help-Earth :bulb:</h1>
 
-<img src="http://i.imgur.com/zvU5EHg.jpg" text-align="center">
+<img src="http://i.imgur.com/zvU5EHg.jpg" "text-align:center">
 
 
-<h3>This is a collection of mobile and web apps that solve water shortages, deforestation, poverty, job creation, microfinance. We have most of the technology we need to run our own affairs, without interference from large scale organizations.</h3> 
+<h2>This is a collection of mobile and web apps that solve water shortages, deforestation, poverty, job creation, microfinance. We have most of the technology we need to run our own affairs, without interference from large scale organizations.</h2> 
 <br><br><br><br>
 
-<h3>Part One: Production Ready Apps.</h3>
+<h2>Part One: Production Ready Apps.</h2>
 - Food Sharing Apps.
 - Free Computer Education.
 - Fair Priced Computer Courses.
 
-###Part Two: Unfinished Prototypes/
+<h2>Part Two: Unfinished Prototypes</h2>
 - Tree Plating Apps.
 
 
