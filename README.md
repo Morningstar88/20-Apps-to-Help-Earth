@@ -20,7 +20,7 @@
 
 <h2 align="center">Apps You Can Download Now</h2>
 <p align="center">
-<img width="200px" height="200px" src="http://i.imgur.com/25fikTd.jpg" text-align="center">
+<img width="400px" height="400px" src="http://i.imgur.com/25fikTd.jpg" text-align="center">
 </p>
 
 <h2 align="center">Problem: Food waste. Earth throws away half of its food.</h2> 
