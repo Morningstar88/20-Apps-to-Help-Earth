@@ -62,9 +62,9 @@
 <href ="https://www.ecosia.org">Ecosia Search Engine</a> - A Browser that plants trees. Over 500,000 trees planted. 
 
 <h2 align="center">Problem: Computer Education is Expensive.</h2>
-
+<p align="center">
 <img src="http://i.imgur.com/42bYJfQ.jpg">
-
+</p>
 <h2 align="center">Free Computer Education</h2>
 
 - <a href="www.freecodecamp.com">Free Code Camp</a>
@@ -78,7 +78,9 @@
 
 <h2 align="center">Prototype Apps</h2>
 
-![Prototypes](http://i.imgur.com/v6w17QK.jpg)
+<p align="center">
+<img src="http://i.imgur.com/v6w17QK.jpg">
+</p>
 
 <h2 align="center">Tree-planting Apps</h2>
 
