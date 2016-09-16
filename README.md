@@ -50,7 +50,7 @@
 
 <a href="http://fortune.com/2015/04/16/could-these-apps-solve-americas-huge-food-waste-problem/">Forbes on Food Sharing Apps</a>
 
-*
+<br><br><br>
 
 <h1 align="center">Problem: Computer Education is Expensive.</h2>
 
@@ -62,7 +62,7 @@
 
 <a href="https://academy.zenva.com">Zenva Academy</a>
 
-
+<br><br><br>
 
 
 <h1 align="center">Prototype Apps</h1>
@@ -81,7 +81,7 @@ Original Repo here:
 
 - <a href="https://github.com/VctrySam/Pokemon">Pokemon React Native Clone</a>
 
-
+<br><br><br>
 
 
 <h1 align="center">Hackathon Homepages<h1>
@@ -90,7 +90,7 @@ Hackathons focused on Microfinance, tree-planting etc.
 
 <a href="http://codepen.io/Teeke/pen/dXapmA">Hackathon Homepage on Codepen</a>
 
-
+<br><br><br>
 
 
 *
