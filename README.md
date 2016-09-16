@@ -3,10 +3,10 @@
 <img src="http://i.imgur.com/zvU5EHg.jpg" text-align="center">
 
 
-###This is a collection of mobile and web apps that solve water shortages, deforestation, poverty, job creation, microfinance. We have most of the technology we need to run our own affairs, without interference from large scale organizations. 
+<h3>This is a collection of mobile and web apps that solve water shortages, deforestation, poverty, job creation, microfinance. We have most of the technology we need to run our own affairs, without interference from large scale organizations.</h3> 
 <br><br><br><br>
 
-###Part One: Production Ready Apps.
+<h3>Part One: Production Ready Apps.</h3>
 - Food Sharing Apps.
 - Free Computer Education.
 - Fair Priced Computer Courses.
