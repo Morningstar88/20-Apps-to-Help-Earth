@@ -117,6 +117,8 @@ https://github.com/Microflow/Robin-Hood-Army-Infographic-Generator
 
 <h2 align="center">Buy Some Give One Marketplace</h2>
 
+<b>Weaving giving into everyday life</b>
+
 <i>User story, buyer: Maria logs on to buy some give one because she knows that every time 10-20 items are bought, one is given away. For every 10 ukulele's sold, one is given to a schoolkid. For every 20 packets of spaghetti sold, sone is given to a homeless shelter. For every 15 shirts sold, one is given to a homeless person. No tax, no tithing, just giving. 
 
 User story, seller: Instead of wasting money on advertising, John's general store can pay 5 dollars a month for a pitch on buy some give one, and give away an item for every X items sold. Simple, easy, beats renting billboard space.</i>
@@ -124,6 +126,12 @@ User story, seller: Instead of wasting money on advertising, John's general stor
 <br><br>
 
 <h2 align="center">65% Donation App</h2>
+
+Crowdfunding, for when you already have more than half the money saved. 
+
+<i>User story: Jim wants to refit his living room. He has enough for paint, chairs and carpet, but needs 350USD for a new sofa. He puts 650 into the fund himself. Can his friends and family help raise the other 350USD?</i>
+
+
 
 <br><br>
 
