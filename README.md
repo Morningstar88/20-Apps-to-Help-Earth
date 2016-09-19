@@ -69,7 +69,7 @@
 
 - <a href="www.freecodecamp.com">Free Code Camp</a>
 
-<h2 align="center">Fair priced computer education</h2>
+<h2 align="center">Fair Priced Computer Education</h2>
 
 - <a href="https://academy.zenva.com">Zenva Academy</a>
 - <a href="https://school.codequs.com/">Codequs</a>
@@ -132,8 +132,6 @@ Crowdfunding, for when you already have more than half the money saved.
 
 <i>User story: Jim wants to refit his living room. He has enough for paint, chairs and carpet, but needs 350USD for a new sofa. He puts 650 into the fund himself. Can his friends and family help raise the other 350USD?</i>
 
-
-
 <br><br>
 
 <h2 align="center">Fundmatch<h2>
@@ -149,6 +147,12 @@ Crowdfunding, for when you already have more than half the money saved.
 <br><br>
 
 <h2 align="center">Gamifying Crowdfunding- Tron-funding</h2>
+
+<b>Proof of Concept for Gamified Crowdfunding</b>
+
+<i>User story: Bob plays Alice over a remote connection. Each has a crowdfunding project at stake. Bob wants to fund filters in Peru. Alice wants to fund a clothing stall in NYC. The crowd fill the progress bars of each project. The winner of 5 rounds of Tron takes 75 %, the loser 25%</i>
+
+https://github.com/Microflow/Tron-funding
 
 <br><br><br>
 
