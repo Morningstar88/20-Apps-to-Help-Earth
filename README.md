@@ -72,6 +72,7 @@
 <h2 align="center">Fair priced computer education</h2>
 
 - <a href="https://academy.zenva.com">Zenva Academy</a>
+- <a href="https://school.codequs.com/">Codequs</a>
 
 <br><br><br>
 
