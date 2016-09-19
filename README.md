@@ -120,9 +120,11 @@ https://github.com/Microflow/Robin-Hood-Army-Infographic-Generator
 
 <b>Weaving giving into everyday life</b>
 
-<i>User story, buyer: Maria logs on to buy some give one because she knows that every time 10-20 items are bought, one is given away. For every 10 ukulele's sold, one is given to a schoolkid. For every 20 packets of spaghetti sold, sone is given to a homeless shelter. For every 15 shirts sold, one is given to a homeless person. No tax, no tithing, just giving. 
+<i>User story, Buyer: Maria logs on to Buy Some Give One because she knows that every time 10-20 items are bought, one is given away. For every 10 Ukulele's sold, one is given to a schoolkid. For every 20 packets of spaghetti sold, one pack is given to a homeless shelter. For every 15 shirts sold, one is given to a homeless person. No tax, no tithing, just giving. How do merchants save on postage costs? Simple. They don't send physical goods, just partner up with another store, and send enough money to buy one product.
 
-User story, seller: Instead of wasting money on advertising, John's general store can pay 5 dollars a month for a pitch on buy some give one, and give away an item for every X items sold. Simple, easy, beats renting billboard space.</i>
+Example: John's Ukulele store in Tennessee, pledges to give away 1 Uke for every 10 sold. Once ten are sold, John Paypals 65USD to Macy's Uke store in East Village, who give away one Uke, courtesy John's. Macy can also have a similar deal going on with another store.
+
+Instead of wasting money on advertising, John's general store can pay 5 dollars a month for a pitch on Buy Some Give One, and give away an item for every X items sold. Simple, easy, beats renting billboard space.
 
 <br><br>
 
