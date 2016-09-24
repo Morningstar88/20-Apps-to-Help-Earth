@@ -157,6 +157,60 @@ We prefer projects based on water filtration, organic food, industrial hemp...
 
 <i>After the payment sytem was built, this could work with anything</i>
 
+<h2 id="#LightBikes" align="center">Chess-funding</h2>
+
+<h3>Crowdfunding mixed with Chess Variants.</h3>
+
+<h3>Resources and Libraries</h3>
+
+https://github.com/jhlywa/chess.js/
+
+http://codepen.io/zachernuk/pen/BNjZdP
+
+Chess variants like Fisher's Rules, Hexagonal Chess, Maharajah and the Sepoys.
+
+https://www.youtube.com/watch?v=NhZppJAw_2g
+
+https://en.wikipedia.org/wiki/Maharajah_and_the_Sepoys
+https://en.wikipedia.org/wiki/Hexagonal_chess#Gli.C5.84ski.27s_hexagonal_chess
+https://en.wikipedia.org/wiki/File:Shafran_Chess_Setup.png
+https://upload.wikimedia.org/wikipedia/commons/b/b0/Double_Chess_gameboard_and_init_config.png
+
+<h3>Open Source Strategy Chess<h3>
+
+Shanghai Vs Beijing! Teams, Towns and whole cities play against each other. Moves are discussed openly, publically. White and Black teams discuss a move, and the entire team crowdvotes the winning move, and strategy. <i>How does it affect your strategy if you know the other team is monitoring all your communications?</i> A whole meta-game is created around the game.
+
+Can you trust everyone in your ranks? How do you know you don't have enemy agents trying to trick you into a false move?
+
+In Byzantine Chess, <b>double-agents are permitted.</b> Can you trust everyone in your camp?
+
+Inspired partially by Jorge Luis Borges's "The Babylon Lottery", and the Byzantine General Problem. 
+
+(Babylon Lottery Quote) 
+
+<h3>Street Fighter Chess: Endgame</h3>
+
+There can be only two...
+
+Tournament: 100 players are thrust into endgame problems against each other in a sudden death knockout tournament. Only one player wins.
+
+Prize fund goes to crowdfunding project of their choice. 75 percent to first place, 25 percent to second. 
+
+*
+
+<h3>Horde Chess</h3>
+
+5 seconds per move. If you don't move in 5 seconds, you don't get to move. 
+
+2 huge armies. 5 times the size of regular armies.
+
+Variant I: Move 3 moves at a time. 10 second limit on moves. 
+
+Varient II: 5 generals on each army. 
+
+Varient III: Hills and Blockades. Some squares are blocked. 
+
+
 <b>Components</b>
 
 1. Crowdfunding Project Boxes. (Check the JQuery animation on the bitcoin/email address).
