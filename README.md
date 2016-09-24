@@ -236,7 +236,7 @@ Varient II: 5 generals on each army.
 Varient III: Hills and Blockades. Some squares are blocked. 
 
 
-<h3>AI vs AI chess</h3>
+<h3>AI vs AI Byzantine Chess</h3>
 
 <strong>Benefits</strong>
 
@@ -244,12 +244,35 @@ Varient III: Hills and Blockades. Some squares are blocked.
 - Renewed interest in programming.
 - New innovations for open source chess. 
 - Group discussion of AI moves instead of humans blindly playing them.
-- Pits programming languages against each other. 
+- Pits programming languages and university teams against each other. 
 - Adds a metagame to the game of chess.
+- AI must explain its moves and thinking ahead of time.
+- Allows discussion of programming language strengths and benefits.
+- Mirrors modern warfare where both sides can monitor enemy communication.
 
 *
 
-Demo
+<h3>Demo</h3>
+
+http://yanngranjon.com/static/games/chess3D/
+
+https://github.com/FrenchYann/Chess3D/tree/master/js
+
+User Story:
+
+Black team from Stanford Univeristy vs Team B from Russia. Team A are running X on X. Team B are 
+
+Prize fund 6,000USD. Winner gets 3x the loser. 
+
+X are funding Y. B are funding C.
+
+Watch live.
+
+How to mix humanity's love of games with the need to fund real world projects?
+
+
+
+
 
 
 
