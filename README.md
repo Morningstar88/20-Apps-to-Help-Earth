@@ -177,6 +177,10 @@ Cheating in Online Chess
 
 https://www.reddit.com/r/chess/comments/3e5byt/whats_to_stop_someone_from_cheating_in_an_online/
 
+Reddit Computer Chess
+
+https://www.reddit.com/r/ComputerChess
+
 Working Chess
 
 http://codepen.io/willangles/pen/JdByo
@@ -189,10 +193,13 @@ Chess variants like Fisher's Rules, Hexagonal Chess, Maharajah and the Sepoys.
 
 https://www.youtube.com/watch?v=NhZppJAw_2g
 
+Chess Variants
+
 https://en.wikipedia.org/wiki/Maharajah_and_the_Sepoys
 https://en.wikipedia.org/wiki/Hexagonal_chess#Gli.C5.84ski.27s_hexagonal_chess
 https://en.wikipedia.org/wiki/File:Shafran_Chess_Setup.png
 https://upload.wikimedia.org/wikipedia/commons/b/b0/Double_Chess_gameboard_and_init_config.png
+https://en.wikipedia.org/wiki/Crazyhouse
 
 <h3>Open Source Strategy Chess<h3>
 
@@ -227,6 +234,25 @@ Variant I: Move 3 moves at a time. 10 second limit on moves.
 Varient II: 5 generals on each army. 
 
 Varient III: Hills and Blockades. Some squares are blocked. 
+
+
+<h3>AI vs AI chess</h3>
+
+<strong>Benefits</strong>
+
+- Large funds raised for useful projects. 
+- Renewed interest in programming.
+- New innovations for open source chess. 
+- Group discussion of AI moves instead of humans blindly playing them.
+- Pits programming languages against each other. 
+- Adds a metagame to the game of chess.
+
+*
+
+Demo
+
+
+
 
 
 <b>Components</b>
