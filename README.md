@@ -14,11 +14,7 @@
 - <strong>Tree Planting Apps.</strong>
 - <strong>Environmental Hackathons.</strong>
 - <strong>Infographic Generators. </strong>
-- <strong>The Real Farmville.</strong> Matthew and their friends pay 5 dollars each and raise 100USD. It's Sunday morning. He wants to donate to a farm in Mexico City. They will grow 200 cherry tomatoes in a bed with his friend's name on it. They can log on and see the seeds grow every day. The famer takes a timelapse 4 times per day on a smartphone. He can check the crops progress on a timelapsed review. When the tomatos are grown, the farmer's wife makes them into burritos and gives 50 out to local kids. They film the party, say thanks to Matthew + friends, and put the video online. 
-
-https://www.youtube.com/watch?v=p2CZ_mx3FQI
-
-https://www.youtube.com/watch?v=LICDb8nM5rs
+- <strong>The Real Farmville.</strong> <i>Funding farming live. Watch plants grow in time lapse. Feed a kid somewhere.</i> 
 - <strong>65% Funded Crowdfunding.</strong>John has 700USD to build a rooftop hydroponic farm. He needs another 300USD. Can his friends pitch in and give him 300USD.
 - <strong>Fund challenge.</strong> Mysterious investor puts 1000USD on the table for an orphanage. Can the public match another 1000USD? Mysterious budget investor puts out 15USD to buy 15 water filters. Can the locals math another 15USD?
 
@@ -37,63 +33,6 @@ https://www.youtube.com/watch?v=5K7ykw976zs
 - Free Computer Education.
 - Fair Priced Computer Courses.
 
-<h2 align="center">Apps You Can Download Now</h2>
-<p align="center">
-<img width="350px" height="300px" src="http://i.imgur.com/25fikTd.jpg" text-align="center">
-</p>
-
-<h2 align="center">Problem: Food waste. Earth throws away half of its food.</h2> 
-
-<h2 align="center">Food Sharing Apps + Websites</h2>
-
-- <a href="http://robinhoodarmy.com/">Robin Hood Army</a> - Decentralized group that takes no donations. Feeds surplus restaurant food to the poor. 
-
-<br>
-
-- <a href="https://www.youtube.com/watch?v=MB5YaETLJNk">Robin Hood Army BBC newsclip</a> - Overview of the Robin Hood Army in Action.
-
-<br>
-
-- <a href="http://olioex.com">Olioex</a> - Connects Shops and Neighbours so food can be shared. Over 100,000 items shared between 80,000 people. 
-
-<br>
-
-- <a href="http://wastenofood.org">WasteNoFood</a>
-
-<h2 align="center">Food Sharing Apps on Google Play and Itunes</h2>
-
-- <a href="https://play.google.com/store/apps/details?id=com.wastenofood.app&hl=en">Waste No Food: Google Play</a>
-
-<br>
-
-- <a href="https://itunes.apple.com/us/app/wastenofood/id866786935?mt=8">Waste No Food: Itunes</a>
-
-<br>
-
-<h2 align="center">Food Sharing Media</h2>
-
-- <a href="http://fortune.com/2015/04/16/could-these-apps-solve-americas-huge-food-waste-problem/">Forbes on Food Sharing Apps</a>
-
-<br><br><br>
-
-<h2 align="center">Tree Planting</h2>
-
-<href ="https://www.ecosia.org">Ecosia Search Engine</a> - A Browser that plants trees. Over 500,000 trees planted. 
-
-<h2 align="center">Problem: Computer Education is Expensive.</h2>
-<p align="center">
-<img src="http://i.imgur.com/42bYJfQ.jpg">
-</p>
-<h2 align="center">Free Computer Education</h2>
-
-- <a href="www.freecodecamp.com">Free Code Camp</a>
-
-<h2 align="center">Fair Priced Computer Education</h2>
-
-- <a href="https://academy.zenva.com">Zenva Academy</a>
-- <a href="https://school.codequs.com/">Codequs</a>
-
-<br><br><br>
 
 
 <h2 align="center">Prototype Apps</h2>
@@ -173,6 +112,12 @@ Crowdfunding, for when you already have more than half the money saved.
 
 <h2 align="center">The Real Farmville</h2>
 
+<i>Matthew and their friends pay 5 dollars each and raise 100USD. It's Sunday morning. He wants to donate to a farm in Mexico City. They will grow 200 cherry tomatoes in a bed with his friend's name on it. They can log on and see the seeds grow every day. The famer takes a timelapse 4 times per day on a smartphone. He can check the crops progress on a timelapsed review. When the tomatos are grown, the farmer's wife makes them into burritos and gives 50 out to local kids. They film the party, say thanks to Matthew + friends, and put the video online.</i>
+
+https://www.youtube.com/watch?v=p2CZ_mx3FQI
+
+https://www.youtube.com/watch?v=LICDb8nM5rs
+
 <br><br>
 
 <h2 align="center">Longevity Research</h2>
@@ -226,6 +171,65 @@ Come and help us build this open source API on Github.
 https://github.com/Microflow/Tron-funding
 
 <br><br><br>
+
+<h2 align="center">Apps You Can Download Now</h2>
+<p align="center">
+<img width="350px" height="300px" src="http://i.imgur.com/25fikTd.jpg" text-align="center">
+</p>
+
+<h2 align="center">Problem: Food waste. Earth throws away half of its food.</h2> 
+
+<h2 align="center">Food Sharing Apps + Websites</h2>
+
+- <a href="http://robinhoodarmy.com/">Robin Hood Army</a> - Decentralized group that takes no donations. Feeds surplus restaurant food to the poor. 
+
+<br>
+
+- <a href="https://www.youtube.com/watch?v=MB5YaETLJNk">Robin Hood Army BBC newsclip</a> - Overview of the Robin Hood Army in Action.
+
+<br>
+
+- <a href="http://olioex.com">Olioex</a> - Connects Shops and Neighbours so food can be shared. Over 100,000 items shared between 80,000 people. 
+
+<br>
+
+- <a href="http://wastenofood.org">WasteNoFood</a>
+
+<h2 align="center">Food Sharing Apps on Google Play and Itunes</h2>
+
+- <a href="https://play.google.com/store/apps/details?id=com.wastenofood.app&hl=en">Waste No Food: Google Play</a>
+
+<br>
+
+- <a href="https://itunes.apple.com/us/app/wastenofood/id866786935?mt=8">Waste No Food: Itunes</a>
+
+<br>
+
+<h2 align="center">Food Sharing Media</h2>
+
+- <a href="http://fortune.com/2015/04/16/could-these-apps-solve-americas-huge-food-waste-problem/">Forbes on Food Sharing Apps</a>
+
+<br><br><br>
+
+<h2 align="center">Tree Planting</h2>
+
+<href ="https://www.ecosia.org">Ecosia Search Engine</a> - A Browser that plants trees. Over 500,000 trees planted. 
+
+<h2 align="center">Problem: Computer Education is Expensive.</h2>
+<p align="center">
+<img src="http://i.imgur.com/42bYJfQ.jpg">
+</p>
+<h2 align="center">Free Computer Education</h2>
+
+- <a href="www.freecodecamp.com">Free Code Camp</a>
+
+<h2 align="center">Fair Priced Computer Education</h2>
+
+- <a href="https://academy.zenva.com">Zenva Academy</a>
+- <a href="https://school.codequs.com/">Codequs</a>
+
+<br><br><br>
+
 
 
 <style>
