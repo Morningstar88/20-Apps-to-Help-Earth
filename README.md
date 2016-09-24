@@ -20,7 +20,7 @@
 
 <h2 align="center">Apps You Can Download Now</h2>
 <p align="center">
-<img width="400px" height="400px" src="http://i.imgur.com/25fikTd.jpg" text-align="center">
+<img width="350px" height="300px" src="http://i.imgur.com/25fikTd.jpg" text-align="center">
 </p>
 
 <h2 align="center">Problem: Food waste. Earth throws away half of its food.</h2> 
@@ -116,7 +116,7 @@ https://github.com/Microflow/Robin-Hood-Army-Infographic-Generator
 
 <h1 align="center">Roadmap for 2017 and beyond</h1>
 
-<h2 align="center">Buy Some Give One Marketplace</h2>
+<h2 align="center">Buy Some Give One Marketplace: Forward Now</h2>
 
 <i>This can be prototyped on Shopify.</i>
 
@@ -130,7 +130,13 @@ Example: John's Ukulele store in Tennessee, pledges to give away 1 Uke for every
 
 Instead of wasting money on advertising, John's general store can pay 10 dollars a month for a pitch on Buy Some Give One, and give away an item for every X items sold. 
 
+<strong>Buy One Give One</strong> is an unworkable business model. Companies can't afford to give away one product for every one sold. Buy some give one works. Companies can save money on advertising, and instead give things forward. 
+
 Simple, easy, fair. It beats renting billboard space.
+
+We're building a timeline where every product sold adds up to a gift for someone, somewhere. 
+
+We prefer organic food, musical instruments, herbs and nutritional products, helpful gadgets... anything that can build a better world. 
 
 <br><br>
 
