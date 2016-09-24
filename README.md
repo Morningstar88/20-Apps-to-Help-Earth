@@ -2,14 +2,14 @@
 
 <h1 align="center"> 20-Apps-to-Help-Earth :bulb:</h1>
 
-<p align="center>
-<img src="http://i.imgur.com/zvU5EHg.jpg" "text-align:center">
+<h2>A collection of mobile and web apps solving water shortages, deforestation, poverty, unemployment, and food waste. In 2016, we can create decentralized change without corporate interference...</h2> 
 
+<p align="center">
 <img src="http://i.imgur.com/42bYJfQ.jpg">
 </p>
 
-<h2>A collection of mobile and web apps solving water shortages, deforestation, poverty, unemployment, and food waste. In 2016, we can create decentralized change without corporate interference...</h2> 
-</p>
+
+<br><br>
 
 <h2>Part One: Our Prototypes</h2>
 - <strong>Tron-funding.</strong> <i> Gamified Crowdfunding. Biplanes, Speed Racers, Sword-fights. Two players fight to win crowdfunded cash for their organic projects.</i>
