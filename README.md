@@ -23,9 +23,9 @@
 
 https://community.greentech.nl/crops/b/industry-news/posts/growing-interest-for-indoor-farming-in-mexico
 
-- <strong>Nerd Meetup Apps.</strong><i></i>
+- <strong>Nerd Meetup Apps.</strong><i>Programmers, farmers, musicians, writer. We inherited the Earth, now lets meet.</i>
 
-- <strong>Niche Crowdfunding.</strong>Ultra-specific fund-raising.</strong> (Honeyfund example)<i>Alfalfa, Solar Dehydration.</i> 
+- <strong>Niche Crowdfunding.</strong>Ultra-specific fund-raising.</strong> https://www.honeyfund.com/<i>Alfalfa, Solar Dehydration.</i> 
 
 https://www.youtube.com/watch?v=5K7ykw976zs
 
