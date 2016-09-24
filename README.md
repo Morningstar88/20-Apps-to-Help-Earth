@@ -165,7 +165,13 @@ We prefer projects based on water filtration, organic food, industrial hemp...
 
 https://github.com/jhlywa/chess.js/
 
+Beautiful 3D Chess
+
 http://codepen.io/zachernuk/pen/BNjZdP
+
+Working Chess
+
+http://codepen.io/willangles/pen/JdByo
 
 Chess variants like Fisher's Rules, Hexagonal Chess, Maharajah and the Sepoys.
 
