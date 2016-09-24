@@ -163,15 +163,27 @@ We prefer projects based on water filtration, organic food, industrial hemp...
 
 <h3>Resources and Libraries</h3>
 
+Excellent Working 3D Chess. Best so far:
+
+https://github.com/FrenchYann/Chess3D
+
 https://github.com/jhlywa/chess.js/
 
 Beautiful 3D Chess
 
 http://codepen.io/zachernuk/pen/BNjZdP
 
+Cheating in Online Chess
+
+https://www.reddit.com/r/chess/comments/3e5byt/whats_to_stop_someone_from_cheating_in_an_online/
+
 Working Chess
 
 http://codepen.io/willangles/pen/JdByo
+
+Working 3D CHess
+
+http://codepen.io/juliangarnier/pen/BsIih
 
 Chess variants like Fisher's Rules, Hexagonal Chess, Maharajah and the Sepoys.
 
