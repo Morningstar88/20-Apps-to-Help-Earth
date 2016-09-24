@@ -15,7 +15,28 @@
 - Fair Priced Computer Courses.
 
 <h2>Part Two: Unfinished Prototypes</h2>
-- Tree Planting Apps.
+- <strong>Tron-funding.</strong> Gamified Crowdfunding. Two players fight to fund their projects. 
+- <strong>Buy Some Give One, Play games, fund organic projects. </strong> 
+- <strong>Tree Planting Apps.</strong>
+- <strong>Environmental Hackathons.</strong>
+- <strong>Infographic Generators. </strong>
+- <strong>The Real Farmville.</strong> Matthew and their friends pay 5 dollars each and raise 100USD. It's Sunday morning. He wants to donate to a farm in Mexico City. They will grow 200 cherry tomatoes in a bed with his friend's name on it. They can log on and see the seeds grow every day. The famer takes a timelapse 4 times per day on a smartphone. He can check the crops progress on a timelapsed review. When the tomatos are grown, the farmer's wife makes them into burritos and gives 50 out to local kids. They film the party, say thanks to Matthew + friends, and put the video online. 
+
+https://www.youtube.com/watch?v=p2CZ_mx3FQI
+
+https://www.youtube.com/watch?v=LICDb8nM5rs
+- <strong>65% Funded Crowdfunding.</strong>John has 700USD to build a rooftop hydroponic farm. He needs another 300USD. Can his friends pitch in and give him 300USD.
+- <strong>Fund challenge.</strong> Mysterious investor puts 1000USD on the table for an orphanage. Can the public match another 1000USD? Mysterious budget investor puts out 15USD to buy 15 water filters. Can the locals math another 15USD?
+
+https://community.greentech.nl/crops/b/industry-news/posts/growing-interest-for-indoor-farming-in-mexico
+
+- <strong>Longevity Research Meetup Apps.
+
+<b>Niche Crowdfunding</b>
+
+Alfalfa, Solar Dehydration. 
+
+https://www.youtube.com/watch?v=5K7ykw976zs
 
 
 <h2 align="center">Apps You Can Download Now</h2>
@@ -208,7 +229,6 @@ https://github.com/Microflow/Tron-funding
 
 <br><br><br>
 
-- Link to Avalon and Longecity.
 
 <style>
 body {
