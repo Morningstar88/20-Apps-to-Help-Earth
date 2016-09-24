@@ -29,7 +29,7 @@ Then, add a link to the bookmark ("Useful Tips Section"), from within the same p
 <br><br>
 
 <h2>Part One: Our Prototypes</h2>
-- <strong>Tron-funding.</strong> <i> Gamified Crowdfunding. Biplanes, Speed Racers, Sword-fights. Two players fight to win crowdfunded cash for their organic projects.</i>
+- <strong>Tron-funding.</strong> <i> <a href="#tips"Gamified Crowdfunding."</a> Biplanes, Speed Racers, Sword-fights. Two players fight to win crowdfunded cash for their organic projects.</i>
 - <strong>Buy Some Give One.</strong> <i> For every 10 Ukulele's sold, one is given away. Ever 20 kilos of red rice sold, one is given away.</i>  
 - <strong>Tree Planting Apps.</strong><i> Gamifiying and funding treeplanting. treefund and Treekachu.</i>
 - <strong>Environmental Hackathons.</strong><i> Students in India, Bangladesh, Switzerland... where-ever. Build apps to solve problems.</i>
