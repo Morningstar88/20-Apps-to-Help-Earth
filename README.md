@@ -6,14 +6,15 @@
 <img src="http://i.imgur.com/zvU5EHg.jpg" "text-align:center">
 
 <img src="http://i.imgur.com/42bYJfQ.jpg">
+</p>
 
 <h2>A collection of mobile and web apps solving water shortages, deforestation, poverty, unemployment, and food waste. In 2016, we can create decentralized change without corporate interference...</h2> 
 </p>
 
 <h2>Part One: Our Prototypes</h2>
-- <strong>Tron-funding.</strong> <i>Gamified Crowdfunding. Biplanes, Speed Racers, Sword-fights. Two players fight to win cash prizes for their projects.</i>
-- <strong>Buy Some Give One</strong> <i>Play games, fund organic projects.</i>  
-- <strong>Tree Planting Apps.</strong><i></i>
+- <strong>Tron-funding.</strong> <i> Gamified Crowdfunding. Biplanes, Speed Racers, Sword-fights. Two players fight to win crowdfunded cash for their organic projects.</i>
+- <strong>Buy Some Give One.</strong> <i>For every 10 Ukulele's sold, one is given away. Ever 20 kilos of red rice sold, one is given away.</i>  
+- <strong>Tree Planting Apps.</strong><i>Gamifiying and funding treeplanting. treefund and Treekachu.</i>
 - <strong>Environmental Hackathons.</strong><i>Students in India, Bangladesh, Switzerland... where-ever. Build apps to solve problems.</i>
 - <strong>Infographic Generators.</strong><i>Your message to the world in a choice of 20 beautiful fonts.</i>
 - <strong>The Real Farmville.</strong> <i>Funding farming live. Watch plants grow in time lapse. Feed a kid somewhere.</i> 
@@ -22,16 +23,13 @@
 
 https://community.greentech.nl/crops/b/industry-news/posts/growing-interest-for-indoor-farming-in-mexico
 
-- <strong>Longevity Research Meetup Apps.</strong><i></i>
+- <strong>Nerd Meetup Apps.</strong><i></i>
 
-- <b>Niche Crowdfunding</b><strong>Ultra-specific fund-raising.</strong> (Honeyfund example)<i>Alfalfa, Solar Dehydration.</i> 
+- <strong>Niche Crowdfunding.</strong>Ultra-specific fund-raising.</strong> (Honeyfund example)<i>Alfalfa, Solar Dehydration.</i> 
 
 https://www.youtube.com/watch?v=5K7ykw976zs
 
-<h2>Part Two: Apps You Can Download Now.</h2>
-- Food Sharing Apps.
-- Free Computer Education.
-- Fair Priced Computer Courses.
+
 
 
 
@@ -172,7 +170,12 @@ https://github.com/Microflow/Tron-funding
 
 <br><br><br>
 
-<h2 align="center">Apps You Can Download Now</h2>
+<h2>Part Two: Apps You Can Download Now.</h2>
+- Food Sharing Apps.
+- Free Computer Education.
+- Fair Priced Computer Courses.
+
+<h2 align="center">In Production</h2>
 <p align="center">
 <img width="350px" height="300px" src="http://i.imgur.com/25fikTd.jpg" text-align="center">
 </p>
