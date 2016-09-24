@@ -118,13 +118,19 @@ https://github.com/Microflow/Robin-Hood-Army-Infographic-Generator
 
 <h2 align="center">Buy Some Give One Marketplace</h2>
 
+<i>This can be prototyped on Shopify.</i>
+
 <b>Weaving giving into everyday life</b>
 
-<i>User story, Buyer: Maria logs on to Buy Some Give One because she knows that every time 10-20 items are bought, one is given away. For every 10 Ukulele's sold, one is given to a schoolkid. For every 20 packets of spaghetti sold, one pack is given to a homeless shelter. For every 15 shirts sold, one is given to a homeless person. No tax, no tithing, just giving. How do merchants save on postage costs? Simple. They don't send physical goods, just partner up with another store, and send enough money to buy one product.
+No tax, no tithing, just giving.
 
-Example: John's Ukulele store in Tennessee, pledges to give away 1 Uke for every 10 sold. Once ten are sold, John Paypals 65USD to Macy's Uke store in East Village, who give away one Uke, courtesy John's. Macy can also have a similar deal going on with another store.
+<i>User story, Buyer: Maria logs on to Buy Some Give One. She knows that every time 10-20 items are bought, one is given away. For every 10 Ukulele's sold, one is given to a schoolkid. For every 20 packets of organic pasta sold, one pack is given to a homeless shelter. For every 15 hemp shirts sold, one is given to a charity in Peru.  How do merchants save on postage costs? Simple. They don't send physical goods. They just partner up with another store, and Paypal enough money to buy one product.
 
-Instead of wasting money on advertising, John's general store can pay 5 dollars a month for a pitch on Buy Some Give One, and give away an item for every X items sold. Simple, easy, beats renting billboard space.
+Example: John's Ukulele store in Tennessee, pledges to give away 1 Uke for every 10 sold. Once ten are sold, John Paypals 65 USD to Macy's Uke store in East Village, who give away one maplewood Uke, courtesy John's of Tennessee. Macy can also have a similar deal going on with another store. For every 20 Flamenco guitars sold, Macy's of East Village will give one away to a youth center in Queens. 
+
+Instead of wasting money on advertising, John's general store can pay 10 dollars a month for a pitch on Buy Some Give One, and give away an item for every X items sold. 
+
+Simple, easy, fair. It beats renting billboard space.
 
 <br><br>
 
@@ -152,15 +158,26 @@ Crowdfunding, for when you already have more than half the money saved.
 
 <b>Proof of Concept for Gamified Crowdfunding</b>
 
-<strong>Tron Funding</strong>
+<strong>Tron Funding: Twitch meets Start Some Good</strong>
 
-<i>User story: Bob plays Alice over a remote connection. Both of them have a crowdfunding project they wish to fund. Bob wants 100 USD to fund water filters in Peru. Alice wants 100 USD to fund a home barleygrass farm in NYC. 100 people are watching them play Tron, or another simple browser game. The crowd donate 3-5 dollars each, and fill the prize fund to 300USD. The winner of 5 rounds of Tron takes home 200USD, second place 100USD. Alice wins! The web app pays out 200USD to her account, and 100USD to Bob.</i>
+<i>User story: Bob plays Alice over a remote connection. Both of them have a crowdfunding project they wish to fund. Bob wants 100 USD to fund water filters in Peru. Alice wants 100 USD to fund a home barleygrass farm in NYC. 100 people are watching them play Tron, or another simple browser game. The crowd donate 3-5 dollars each, and fill the prize fund to 300USD. The winner of 5 rounds of Tron takes home 200USD, second place 100USD. Alice wins! The web app pays out 200USD to her account, and 100USD to Bob.
+
+After calculating the winner, the result goes to an admin panel for manual approval. No payment is made without
+
+No pointless projects!
+
+We prefer projects based on water filtration, organic food, industrial hemp...
+
+</i>
 
 <i>After the payment sytem was built, this could work with anything</i>
 
 <b>Components</b>
 
 1. Crowdfunding Project Boxes. (Check the JQuery animation on the bitcoin/email address).
+
+http://codepen.io/Teeke/pen/qaAjLY
+
 2. Tron (or similar multi-player browser game)
 
 <b>Tron in 20 lines of Code</b>
@@ -178,6 +195,8 @@ https://kreldjarn.github.io/TRON/
 
 
 <b>Reddit Discussions</b>
+
+Come and help us build this open source API on Github. 
 
 https://github.com/Microflow/Tron-funding
 
