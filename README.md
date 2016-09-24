@@ -8,13 +8,7 @@
 <h2>A collection of mobile and web apps solving water shortages, deforestation, poverty, unemployment, and food waste. In 2016, we can create decentralized change without corporate interference...</h2> 
 </p>
 
-
-<h2>Part One: Apps You Can Download Now.</h2>
-- Food Sharing Apps.
-- Free Computer Education.
-- Fair Priced Computer Courses.
-
-<h2>Part Two: Unfinished Prototypes</h2>
+<h2>Part One: Our Prototypes</h2>
 - <strong>Tron-funding.</strong> Gamified Crowdfunding. Two players fight to fund their projects. 
 - <strong>Buy Some Give One, Play games, fund organic projects. </strong> 
 - <strong>Tree Planting Apps.</strong>
@@ -38,6 +32,10 @@ Alfalfa, Solar Dehydration.
 
 https://www.youtube.com/watch?v=5K7ykw976zs
 
+<h2>Part Two: Apps You Can Download Now.</h2>
+- Food Sharing Apps.
+- Free Computer Education.
+- Fair Priced Computer Courses.
 
 <h2 align="center">Apps You Can Download Now</h2>
 <p align="center">
