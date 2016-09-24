@@ -152,7 +152,32 @@ Crowdfunding, for when you already have more than half the money saved.
 
 <b>Proof of Concept for Gamified Crowdfunding</b>
 
-<i>User story: Bob plays Alice over a remote connection. Each has a crowdfunding project at stake. Bob wants to fund filters in Peru. Alice wants to fund a clothing stall in NYC. The crowd fill the progress bars of each project. The winner of 5 rounds of Tron takes 75 %, the loser 25%</i>
+<strong>Tron Funding</strong>
+
+<i>User story: Bob plays Alice over a remote connection. Both of them have a crowdfunding project they wish to fund. Bob wants 100 USD to fund water filters in Peru. Alice wants 100 USD to fund a home barleygrass farm in NYC. 100 people are watching them play Tron, or another simple browser game. The crowd donate 3-5 dollars each, and fill the prize fund to 300USD. The winner of 5 rounds of Tron takes home 200USD, second place 100USD. Alice wins! The web app pays out 200USD to her account, and 100USD to Bob.</i>
+
+<i>After the payment sytem was built, this could work with anything</i>
+
+<b>Components</b>
+
+1. Crowdfunding Project Boxes. (Check the JQuery animation on the bitcoin/email address).
+2. Tron (or similar multi-player browser game)
+
+<b>Tron in 20 lines of Code</b>
+
+https://quaxio.com/tron/
+
+<b>Multi-Player Tron in Socket/Node</b>
+
+https://kreldjarn.github.io/TRON/
+
+
+
+
+<b>TODO list</b>
+
+
+<b>Reddit Discussions</b>
 
 https://github.com/Microflow/Tron-funding
 
