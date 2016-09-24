@@ -24,10 +24,7 @@ https://community.greentech.nl/crops/b/industry-news/posts/growing-interest-for-
 
 - <strong>Longevity Research Meetup Apps.</strong><i></i>
 
-<b>Niche Crowdfunding</b>
-
-Ultra-specific fund-raising. (Honeyfund example)
-Alfalfa, Solar Dehydration. 
+- <b>Niche Crowdfunding</b><strong>Ultra-specific fund-raising.</strong> (Honeyfund example)<i>Alfalfa, Solar Dehydration.</i> 
 
 https://www.youtube.com/watch?v=5K7ykw976zs
 
