@@ -31,12 +31,12 @@ Then, add a link to the bookmark ("Useful Tips Section"), from within the same p
 <br><br>
 
 <h2>Part One: Our Prototypes</h2>
-- <strong>Tron-funding.</strong> <i> <a href="#tips">Gamified Crowdfunding."</a> Biplanes, Speed Racers, Sword-fights. Two players fight to win crowdfunded cash for their organic projects.</i>
-- <strong>Buy Some Give One.</strong> <i> For every 10 Ukulele's sold, one is given away. Ever 20 kilos of red rice sold, one is given away.</i>  
-- <strong>Tree Planting Apps.</strong><i> Gamifiying and funding treeplanting. treefund and Treekachu.</i>
-- <strong>Environmental Hackathons.</strong><i> Students in India, Bangladesh, Switzerland... where-ever. Build apps to solve problems.</i>
-- <strong>Infographic Generators.</strong><i> Your message to the world in a choice of 20 beautiful fonts.</i>
-- <strong>The Real Farmville.</strong> <i> Funding farming live. Watch plants grow in time lapse. Feed a kid somewhere.</i> 
+- <strong>Tron-funding.</strong> <i> <a href="#tips">Gamified Crowdfunding."</a> Biplanes, Speed Racers, Sword-fights. Two players fight to win crowdfunded cash for their organic projects.</i> https://github.com/Microflow/Tron-funding
+- <strong>Buy Some Give One.</strong> <i> For every 10 Ukulele's sold, one is given away. Ever 20 kilos of red rice sold, one is given away.</i>  https://github.com/Microflow/Buy-Some-Give-One
+- <strong>Tree Planting Apps.</strong><i> Gamifiying and funding treeplanting. Treefund and Treekachu.</i> https://github.com/Microflow/Treekachu
+- <strong>Environmental Hackathons.</strong><i> Students in India, Bangladesh, Switzerland... where-ever. Build apps to solve problems.</i> http://codepen.io/Teeke/pen/dXapmA
+- <strong>Infographic Generators.</strong><i> Your message to the world in a choice of 20 beautiful fonts.</i> https://github.com/Microflow/Robin-Hood-Army-Infographic-Generator
+- <strong>The Real Farmville.</strong> <i> Funding farming live. Watch plants grow in time lapse. Feed a kid somewhere.</i> https://github.com/Microflow/The-Real-Farmville/tree/master
 - <strong>65% Funded Crowdfunding.</strong><i> John has 700USD to build a rooftop hydroponic farm. He needs another 300USD. Can his friends pitch in and give him 300USD.</i>
 - <strong>Fund challenge.  </strong><i> Mysterious investor puts 1000USD on the table for an orphanage. Can the public match another 1000USD? Mysterious budget investor puts out 15USD to buy 15 water filters. Can the locals math another 15USD?</i>
 
