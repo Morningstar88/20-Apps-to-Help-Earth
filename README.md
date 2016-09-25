@@ -21,6 +21,8 @@ Then, add a link to the bookmark ("Useful Tips Section"), from within the same p
 
 <h2>A collection of mobile and web apps solving water shortages, deforestation, poverty, unemployment, and food waste. In 2016, we can create decentralized change without corporate interference...</h2> 
 
+<h2>Note: The formatting on this document is a complete mess right now. If you want to help clean it up, plz go ahead and send a pull request</h2>
+
 <p align="center">
 <img src="http://i.imgur.com/42bYJfQ.jpg">
 </p>
