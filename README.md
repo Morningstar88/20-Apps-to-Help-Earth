@@ -31,7 +31,7 @@ Then, add a link to the bookmark ("Useful Tips Section"), from within the same p
 <br><br>
 
 <h2>Part One: Our Prototypes</h2>
-- <strong>Tron-funding.</strong> <i> <a href="#tips"Gamified Crowdfunding."</a> Biplanes, Speed Racers, Sword-fights. Two players fight to win crowdfunded cash for their organic projects.</i>
+- <strong>Tron-funding.</strong> <i> <a href="#tips">Gamified Crowdfunding."</a> Biplanes, Speed Racers, Sword-fights. Two players fight to win crowdfunded cash for their organic projects.</i>
 - <strong>Buy Some Give One.</strong> <i> For every 10 Ukulele's sold, one is given away. Ever 20 kilos of red rice sold, one is given away.</i>  
 - <strong>Tree Planting Apps.</strong><i> Gamifiying and funding treeplanting. treefund and Treekachu.</i>
 - <strong>Environmental Hackathons.</strong><i> Students in India, Bangladesh, Switzerland... where-ever. Build apps to solve problems.</i>
@@ -40,7 +40,7 @@ Then, add a link to the bookmark ("Useful Tips Section"), from within the same p
 - <strong>65% Funded Crowdfunding.</strong><i> John has 700USD to build a rooftop hydroponic farm. He needs another 300USD. Can his friends pitch in and give him 300USD.</i>
 - <strong>Fund challenge.  </strong><i> Mysterious investor puts 1000USD on the table for an orphanage. Can the public match another 1000USD? Mysterious budget investor puts out 15USD to buy 15 water filters. Can the locals math another 15USD?</i>
 
-https://community.greentech.nl/crops/b/industry-news/posts/growing-interest-for-indoor-farming-in-mexico
+- https://community.greentech.nl/crops/b/industry-news/posts/growing-interest-for-indoor-farming-in-mexico
 
 - <strong>Nerd Meetup Apps.</strong><i>Programmers, farmers, musicians, writer. We inherited the Earth, now lets meet.</i>
 
@@ -57,6 +57,44 @@ https://www.youtube.com/watch?v=5K7ykw976zs
 <p align="center">
 <img src="http://i.imgur.com/v6w17QK.jpg">
 </p>
+
+<br><br>
+
+<h2 align="center">Buy Some Give One Marketplace: Forward Now</h2>
+
+<i>This can be prototyped on Shopify.</i>
+
+<b>Weaving giving into everyday life</b>
+
+No tax, no tithing, just giving.
+
+<i>User story, Buyer: Maria logs on to Buy Some Give One. She knows that every time 10-20 items are bought, one is given away. For every 10 Ukulele's sold, one is given to a schoolkid. For every 20 packets of organic pasta sold, one pack is given to a homeless shelter. For every 15 hemp shirts sold, one is given to a charity in Peru.  How do merchants save on postage costs? Simple. They don't send physical goods. They just partner up with another store, and Paypal enough money to buy one product.
+
+Example: John's Ukulele store in Tennessee, pledges to give away 1 Uke for every 10 sold. Once ten are sold, John Paypals 65 USD to Macy's Uke store in East Village, who give away one maplewood Uke, courtesy John's of Tennessee. Macy can also have a similar deal going on with another store. For every 20 Flamenco guitars sold, Macy's of East Village will give one away to a youth center in Queens. 
+
+Instead of wasting money on advertising, John's general store can pay 10 dollars a month for a pitch on Buy Some Give One, and give away an item for every X items sold. 
+
+<strong>Buy One Give One</strong> is an unworkable business model. Companies can't afford to give away one product for every one sold. Buy some give one works. Companies can save money on advertising, and instead give things forward. 
+
+Simple, easy, fair. It beats renting billboard space.
+
+We're building a timeline where every product sold adds up to a gift for someone, somewhere. 
+
+We prefer organic food, musical instruments, herbs and nutritional products, helpful gadgets... anything that can build a better world. 
+
+<h2 align="center">The Real Farmville</h2>
+
+<i>Matthew and their friends pay 5 dollars each and raise 100USD. It's Sunday morning. He wants to donate to a farm in Mexico City. They will grow 200 cherry tomatoes in a bed with his friend's name on it. They can log on and see the seeds grow every day. The famer takes a timelapse 4 times per day on a smartphone. He can check the crops progress on a timelapsed review. When the tomatos are grown, the farmer's wife makes them into burritos and gives 50 out to local kids. They film the party, say thanks to Matthew + friends, and put the video online.</i>
+
+https://www.youtube.com/watch?v=p2CZ_mx3FQI
+
+https://www.youtube.com/watch?v=LICDb8nM5rs
+
+<br><br>
+
+<h2 align="center">Longevity Research</h2>
+
+<br><br>
 
 <h2 align="center">Tree-planting Apps</h2>
 
@@ -89,29 +127,7 @@ https://github.com/Microflow/Robin-Hood-Army-Infographic-Generator
 <br><br><br><br><br><br><br>
 
 
-<h1 align="center">Roadmap for 2017 and beyond</h1>
 
-<h2 align="center">Buy Some Give One Marketplace: Forward Now</h2>
-
-<i>This can be prototyped on Shopify.</i>
-
-<b>Weaving giving into everyday life</b>
-
-No tax, no tithing, just giving.
-
-<i>User story, Buyer: Maria logs on to Buy Some Give One. She knows that every time 10-20 items are bought, one is given away. For every 10 Ukulele's sold, one is given to a schoolkid. For every 20 packets of organic pasta sold, one pack is given to a homeless shelter. For every 15 hemp shirts sold, one is given to a charity in Peru.  How do merchants save on postage costs? Simple. They don't send physical goods. They just partner up with another store, and Paypal enough money to buy one product.
-
-Example: John's Ukulele store in Tennessee, pledges to give away 1 Uke for every 10 sold. Once ten are sold, John Paypals 65 USD to Macy's Uke store in East Village, who give away one maplewood Uke, courtesy John's of Tennessee. Macy can also have a similar deal going on with another store. For every 20 Flamenco guitars sold, Macy's of East Village will give one away to a youth center in Queens. 
-
-Instead of wasting money on advertising, John's general store can pay 10 dollars a month for a pitch on Buy Some Give One, and give away an item for every X items sold. 
-
-<strong>Buy One Give One</strong> is an unworkable business model. Companies can't afford to give away one product for every one sold. Buy some give one works. Companies can save money on advertising, and instead give things forward. 
-
-Simple, easy, fair. It beats renting billboard space.
-
-We're building a timeline where every product sold adds up to a gift for someone, somewhere. 
-
-We prefer organic food, musical instruments, herbs and nutritional products, helpful gadgets... anything that can build a better world. 
 
 <br><br>
 
@@ -127,19 +143,7 @@ Crowdfunding, for when you already have more than half the money saved.
 
 <br><br>
 
-<h2 align="center">The Real Farmville</h2>
 
-<i>Matthew and their friends pay 5 dollars each and raise 100USD. It's Sunday morning. He wants to donate to a farm in Mexico City. They will grow 200 cherry tomatoes in a bed with his friend's name on it. They can log on and see the seeds grow every day. The famer takes a timelapse 4 times per day on a smartphone. He can check the crops progress on a timelapsed review. When the tomatos are grown, the farmer's wife makes them into burritos and gives 50 out to local kids. They film the party, say thanks to Matthew + friends, and put the video online.</i>
-
-https://www.youtube.com/watch?v=p2CZ_mx3FQI
-
-https://www.youtube.com/watch?v=LICDb8nM5rs
-
-<br><br>
-
-<h2 align="center">Longevity Research</h2>
-
-<br><br>
 
 <h2 id="#LightBikes" align="center">Gamifying Crowdfunding- Tron-funding</h2>
 
@@ -203,7 +207,7 @@ https://en.wikipedia.org/wiki/File:Shafran_Chess_Setup.png
 https://upload.wikimedia.org/wikipedia/commons/b/b0/Double_Chess_gameboard_and_init_config.png
 https://en.wikipedia.org/wiki/Crazyhouse
 
-<h3>Open Source Strategy Chess<h3>
+<h3>Open Source Strategy Chess</h3>
 
 Shanghai Vs Beijing! Teams, Towns and whole cities play against each other. Moves are discussed openly, publically. White and Black teams discuss a move, and the entire team crowdvotes the winning move, and strategy. <i>How does it affect your strategy if you know the other team is monitoring all your communications?</i> A whole meta-game is created around the game.
 
@@ -357,7 +361,7 @@ https://github.com/Microflow/Tron-funding
 
 <h2 align="center">Tree Planting</h2>
 
-<href ="https://www.ecosia.org">Ecosia Search Engine</a> - A Browser that plants trees. Over 500,000 trees planted. 
+<href="https://www.ecosia.org">Ecosia Search Engine</a> - A Browser that plants trees. Over 500,000 trees planted. 
 
 <h2 align="center">Problem: Computer Education is Expensive.</h2>
 <p align="center">
