@@ -73,7 +73,7 @@ Original Repo here:
 <br><br><br>
 
 
-<h2 align="center">Hackathon Homepages<h2>
+<h2 align="center">Hackathon Homepages</h2>
 
 Hackathons focused on Microfinance, tree-planting etc. 
 
