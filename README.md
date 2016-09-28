@@ -62,60 +62,11 @@ https://www.youtube.com/watch?v=5K7ykw976zs
 <br><br><br>
 
 
-<h2 align="center">Long Form Descriptions</h2>
 
 <p align="center">
 <img src="http://i.imgur.com/v6w17QK.jpg">
 </p>
 
-<br><br>
-
-<h2 align="center">Tree-planting Apps</h2>
-
-- <a href="https://github.com/Microflow/Treekachu">Treekachu on Github</a>
-
-Idea here:
-
-- <a href="https://www.reddit.com/r/SomebodyMakeThis/comments/50lqav/smt_treekachu_a_pokemon_go_clone_for_treeplanting">Treekachu stress-tested on Reddit</a>
-
-Original Repo here: 
-
-- <a href="https://github.com/VctrySam/Pokemon">Pokemon React Native Clone</a>
-
-<br><br><br>
-
-
-<h2 align="center">Hackathon Homepages</h2>
-
-Hackathons focused on Microfinance, tree-planting etc. 
-
-<a href="http://codepen.io/Teeke/pen/dXapmA">Hackathon Homepage on Codepen</a>
-
-<br><br><br><br><br><br><br>
-
-
-
-<h2 align="center">Robin Hood Army Infographic Generator</h2>
-<br>
-https://github.com/Microflow/Robin-Hood-Army-Infographic-Generator
-<br><br><br><br><br><br><br>
-
-
-
-
-<br><br>
-
-<h2 align="center">65% Donation App</h2>
-
-Crowdfunding, for when you already have more than half the money saved. 
-
-<i>User story: Jim wants to refit his living room. He has enough for paint, chairs and carpet, but needs 350USD for a new sofa. He puts 650 into the fund himself. Can his friends and family help raise the other 350USD?</i>
-
-<br><br>
-
-<h2 align="center">Fundmatch<h2>
-
-<br><br>
 
 
 
@@ -123,37 +74,13 @@ Crowdfunding, for when you already have more than half the money saved.
 
 
 
-<b>Components</b>
-
-1. Crowdfunding Project Boxes. (Check the JQuery animation on the bitcoin/email address).
-
-http://codepen.io/Teeke/pen/qaAjLY
-
-2. Tron (or similar multi-player browser game)
-
-<b>Tron in 20 lines of Code</b>
-
-https://quaxio.com/tron/
-
-<b>Multi-Player Tron in Socket/Node</b>
-
-https://kreldjarn.github.io/TRON/
 
 
 
 
-<b>TODO list</b>
 
 
-<b>Reddit Discussions</b>
-
-Come and help us build this open source API on Github. 
-
-https://github.com/Microflow/Tron-funding
-
-<br><br><br>
-
-<h2>Part Two: Apps You Can Download Now.</h2>
+<h2>Apss that look great</h2>
 - Food Sharing Apps.
 - Free Computer Education.
 - Fair Priced Computer Courses.
