@@ -70,30 +70,6 @@ https://www.youtube.com/watch?v=5K7ykw976zs
 
 <br><br>
 
-<h2 align="center">2. Buy Some Give One Marketplace: Forward Now</h2>
-
-<i>This can be prototyped on Shopify.</i>
-
-<b>Weaving giving into everyday life</b>
-
-No tax, no tithing, just giving.
-
-<i>User story, Buyer: Maria logs on to Buy Some Give One. She knows that every time 10-20 items are bought, one is given away. For every 10 Ukulele's sold, one is given to a schoolkid. For every 20 packets of organic pasta sold, one pack is given to a homeless shelter. For every 15 hemp shirts sold, one is given to a charity in Peru.  How do merchants save on postage costs? Simple. They don't send physical goods. They just partner up with another store, and Paypal enough money to buy one product.
-
-Example: John's Ukulele store in Tennessee, pledges to give away 1 Uke for every 10 sold. Once ten are sold, John Paypals 65 USD to Macy's Uke store in East Village, who give away one maplewood Uke, courtesy John's of Tennessee. Macy can also have a similar deal going on with another store. For every 20 Flamenco guitars sold, Macy's of East Village will give one away to a youth center in Queens. 
-
-Instead of wasting money on advertising, John's general store can pay 10 dollars a month for a pitch on Buy Some Give One, and give away an item for every X items sold. 
-
-<strong>Buy One Give One</strong> is an unworkable business model. Companies can't afford to give away one product for every one sold. Buy some give one works. Companies can save money on advertising, and instead give things forward. 
-
-Simple, easy, fair. It beats renting billboard space.
-
-We're building a timeline where every product sold adds up to a gift for someone, somewhere. 
-
-We prefer organic food, musical instruments, herbs and nutritional products, helpful gadgets... anything that can build a better world. 
-
-<br><br>
-
 <h2 align="center">The Real Farmville</h2>
 
 <i>Matthew and their friends pay 5 dollars each and raise 100USD. It's Sunday morning. He wants to donate to a farm in Mexico City. They will grow 200 cherry tomatoes in a bed with his friend's name on it. They can log on and see the seeds grow every day. The famer takes a timelapse 4 times per day on a smartphone. He can check the crops progress on a timelapsed review. When the tomatos are grown, the farmer's wife makes them into burritos and gives 50 out to local kids. They film the party, say thanks to Matthew + friends, and put the video online.</i>
