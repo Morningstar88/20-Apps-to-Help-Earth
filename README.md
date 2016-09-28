@@ -81,9 +81,11 @@ Honeyfund proved that a niche finance app could raise lots of money. We're going
 https://www.honeyfund.com/<i>Alfalfa, Solar Dehydration.</i> 
 <br><br>
 https://www.youtube.com/watch?v=5K7ykw976zs
+<br><br>
 
+Found a donation app, can we clone this?
 
-<br><br><br>
+https://github.com/sscaff1/hopePing
 
 
 
