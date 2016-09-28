@@ -21,7 +21,7 @@ Then, add a link to the bookmark ("Useful Tips Section"), from within the same p
 
 <h2>A collection of mobile and web apps solving water shortages, deforestation, poverty, unemployment, and food waste. In 2016, we can create decentralized change without corporate interference...</h2> 
 
-<h2>Note: The formatting on this document is a complete mess right now. Doc is in very early stages. Won't be finished for at least a month. If you want to help clean it up, plz go ahead and send a pull request</h2>
+<h3>Note: The formatting on this document is a complete mess right now. Doc is in very early stages. Won't be finished for at least a month. If you want to help clean it up, plz go ahead and send a pull request</h2>
 
 <p align="center">
 <img src="http://i.imgur.com/42bYJfQ.jpg">
@@ -31,21 +31,29 @@ Then, add a link to the bookmark ("Useful Tips Section"), from within the same p
 <br><br>
 
 <h2>Part One: Our Prototypes</h2>
-- <strong>Tron-funding.</strong> <i> <a href="#tips">Gamified Crowdfunding."</a> Biplanes, Speed Racers, Sword-fights. Two players fight to win crowdfunded cash for their organic projects.</i> https://github.com/Microflow/Tron-funding
-- <strong>Buy Some Give One.</strong> <i> For every 10 Ukulele's sold, one is given away. Ever 20 kilos of red rice sold, one is given away.</i>  https://github.com/Microflow/Buy-Some-Give-One
-- <strong>Tree Planting Apps.</strong><i> Gamifiying and funding treeplanting. Treefund and Treekachu.</i> https://github.com/Microflow/Treekachu
-- <strong>Environmental Hackathons.</strong><i> Students in India, Bangladesh, Switzerland... where-ever. Build apps to solve problems.</i> http://codepen.io/Teeke/pen/dXapmA
-- <strong>Infographic Generators.</strong><i> Your message to the world in a choice of 20 beautiful fonts.</i> https://github.com/Microflow/Robin-Hood-Army-Infographic-Generator
-- <strong>The Real Farmville.</strong> <i> Funding farming live. Watch plants grow in time lapse. Feed a kid somewhere.</i> https://github.com/Microflow/The-Real-Farmville/tree/master
-- <strong>65% Funded Crowdfunding.</strong><i> John has 700USD to build a rooftop hydroponic farm. He needs another 300USD. Can his friends pitch in and give him 300USD.</i>
-- <strong>Fund challenge.  </strong><i> Mysterious investor puts 1000USD on the table for an orphanage. Can the public match another 1000USD? Mysterious budget investor puts out 15USD to buy 15 water filters. Can the locals math another 15USD?</i>
 
+- <h2>Tron-funding</h2> <i> <a href="#tips">Gamified Crowdfunding."</a> Biplanes, Speed Racers, Sword-fights. Two players fight to win crowdfunded cash for their organic projects.</i> https://github.com/Microflow/Tron-funding
+<br>
+- <h2>Buy Some Give One</h2> <i> For every 10 Ukulele's sold, one is given away. Ever 20 kilos of red rice sold, one is given away.</i>  https://github.com/Microflow/Buy-Some-Give-One
+<br>
+- <h2>Tree Planting Apps</h2><i> Gamifiying and funding treeplanting. Treefund and Treekachu.</i> https://github.com/Microflow/Treekachu
+<br>
+- <h2>Environmental Hackathons</h2><i> Students in India, Bangladesh, Switzerland... where-ever. Build apps to solve problems.</i> http://codepen.io/Teeke/pen/dXapmA
+<br>
+- <h2>Infographic Generators</h2><i> Your message to the world in a choice of 20 beautiful fonts.</i> https://github.com/Microflow/Robin-Hood-Army-Infographic-Generator
+<br>
+- <h2>The Real Farmville</h2> <i> Funding farming live. Watch plants grow in time lapse. Feed a kid somewhere.</i> https://github.com/Microflow/The-Real-Farmville/tree/master
+<br>
+- <h2>65% Funded Crowdfunding</h2><i> John has 700USD to build a rooftop hydroponic farm. He needs another 300USD. Can his friends pitch in and give him 300USD.</i>
+<br>
+- <h2>Fund challenge  </h2><i> Mysterious investor puts 1000USD on the table for an orphanage. Can the public match another 1000USD? Mysterious budget investor puts out 15USD to buy 15 water filters. Can the locals math another 15USD?</i>
+<br>
 - https://community.greentech.nl/crops/b/industry-news/posts/growing-interest-for-indoor-farming-in-mexico
 
-- <strong>Nerd Meetup Apps.</strong><i>Programmers, farmers, musicians, writer. We inherited the Earth, now lets meet.</i>
-
-- <strong>Niche Crowdfunding.</strong>Ultra-specific fund-raising.</strong> https://www.honeyfund.com/<i>Alfalfa, Solar Dehydration.</i> 
-
+- <h2>Nerd Meetup Apps</h2><i>Programmers, farmers, musicians, writer. We inherited the Earth, now lets meet.</i>
+<br>
+- <h2>Niche Crowdfunding.</h2>Ultra-specific fund-raising.</strong> https://www.honeyfund.com/<i>Alfalfa, Solar Dehydration.</i> 
+<br>
 https://www.youtube.com/watch?v=5K7ykw976zs
 
 
