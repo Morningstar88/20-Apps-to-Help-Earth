@@ -30,7 +30,7 @@ Then, add a link to the bookmark ("Useful Tips Section"), from within the same p
 
 <br><br>
 
-<h2>Our Prototypes</h2>
+<h2 align="center";>Quick List of Prototypes</h2>
 
 <h2>Tron-funding</h2> <i> <a href="#tips">Gamified Crowdfunding."</a> Biplanes, Speed Racers, Sword-fights. Two players fight to win crowdfunded cash for their organic projects.</i>  https://github.com/Microflow/Tron-funding
 <br>
@@ -52,7 +52,9 @@ Then, add a link to the bookmark ("Useful Tips Section"), from within the same p
 
 <h2>Nerd Meetup Apps</h2><i>Programmers, farmers, musicians, writer. We inherited the Earth, now lets meet.</i>
 <br>
-<h2>Niche Crowdfunding.</h2>Ultra-specific fund-raising.</strong> https://www.honeyfund.com/<i>Alfalfa, Solar Dehydration.</i> 
+<h2>Niche Crowdfunding.</h2>Ultra-specific fund-raising.</strong> 
+Honeyfund proved that a niche finance app could raise lots of money. We're going to build one generic fund-raising app that can be forked and used for specific crowdfunding websites based on cleaning garbage, solar energy, herbal medicine and more. 
+https://www.honeyfund.com/<i>Alfalfa, Solar Dehydration.</i> 
 <br>
 https://www.youtube.com/watch?v=5K7ykw976zs
 
@@ -60,7 +62,7 @@ https://www.youtube.com/watch?v=5K7ykw976zs
 <br><br><br>
 
 
-<h2 align="center">Prototype Apps</h2>
+<h2 align="center">Long Form Descriptions</h2>
 
 <p align="center">
 <img src="http://i.imgur.com/v6w17QK.jpg">
@@ -68,7 +70,7 @@ https://www.youtube.com/watch?v=5K7ykw976zs
 
 <br><br>
 
-<h2 align="center">Buy Some Give One Marketplace: Forward Now</h2>
+<h2 align="center">2. Buy Some Give One Marketplace: Forward Now</h2>
 
 <i>This can be prototyped on Shopify.</i>
 
@@ -89,6 +91,8 @@ Simple, easy, fair. It beats renting billboard space.
 We're building a timeline where every product sold adds up to a gift for someone, somewhere. 
 
 We prefer organic food, musical instruments, herbs and nutritional products, helpful gadgets... anything that can build a better world. 
+
+<br><br>
 
 <h2 align="center">The Real Farmville</h2>
 
@@ -153,23 +157,7 @@ Crowdfunding, for when you already have more than half the money saved.
 
 
 
-<h2 id="#LightBikes" align="center">Gamifying Crowdfunding- Tron-funding</h2>
 
-<b>Proof of Concept for Gamified Crowdfunding</b>
-
-<strong>Tron Funding: Twitch meets Start Some Good</strong>
-
-<i>User story: Bob plays Alice over a remote connection. Both of them have a crowdfunding project they wish to fund. Bob wants 100 USD to fund water filters in Peru. Alice wants 100 USD to fund a home barleygrass farm in NYC. 100 people are watching them play Tron, or another simple browser game. The crowd donate 3-5 dollars each, and fill the prize fund to 300USD. The winner of 5 rounds of Tron takes home 200USD, second place 100USD. Alice wins! The web app pays out 200USD to her account, and 100USD to Bob.
-
-After calculating the winner, the result goes to an admin panel for manual approval. No payment is made without
-
-No pointless projects!
-
-We prefer projects based on water filtration, organic food, industrial hemp...
-
-</i>
-
-<i>After the payment sytem was built, this could work with anything</i>
 
 <h2 id="#LightBikes" align="center">Chess-funding</h2>
 
