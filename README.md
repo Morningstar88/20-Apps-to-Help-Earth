@@ -32,9 +32,12 @@ Then, add a link to the bookmark ("Useful Tips Section"), from within the same p
 <br><br>
 
 <h1 align="center";>Quick List of Prototypes</h1>
-
-![vintage car](industry-vintage-old-fabric.jpg)	
-
+<br>
+<p align="center">
+<img src="industry-vintage-old-fabric.jpg">
+</p>
+<br>
+<br>
 <h2 align="center">Tron-funding</h2> <i> <a href="#tips">Gamified Crowdfunding."</a>Two players fight to win crowdfunded cash for their organic projects. Head to head challenges on any game: Biplanes, Speed Racers, Sword-fights, Chess. Each player represents an organic project.</i>  https://github.com/Microflow/Tron-funding
 <br><br>
 <h2 align="center">Buy Some Give One</h2> <i> For every 10 Ukulele's sold, one is given away. Ever 20 kilos of red rice sold, one is given away.</i>   https://github.com/Microflow/Buy-Some-Give-One
