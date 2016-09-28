@@ -15,6 +15,7 @@ Then, add a link to the bookmark ("Useful Tips Section"), from within the same p
 
 
 
+
 <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 
 <h1 align="center"> 20-Apps-to-Help-Earth :bulb:</h1>
@@ -32,7 +33,9 @@ Then, add a link to the bookmark ("Useful Tips Section"), from within the same p
 
 <h1 align="center";>Quick List of Prototypes</h1>
 
-<h2 align="center">Tron-funding</h2> <i> <a href="#tips">Gamified Crowdfunding."</a> Biplanes, Speed Racers, Sword-fights. Two players fight to win crowdfunded cash for their organic projects.</i>  https://github.com/Microflow/Tron-funding
+![vintage car](industry-vintage-old-fabric.jpg)	
+
+<h2 align="center">Tron-funding</h2> <i> <a href="#tips">Gamified Crowdfunding."</a>Two players fight to win crowdfunded cash for their organic projects. Head to head challenges on any game: Biplanes, Speed Racers, Sword-fights, Chess. Each player represents an organic project.</i>  https://github.com/Microflow/Tron-funding
 <br><br>
 <h2 align="center">Buy Some Give One</h2> <i> For every 10 Ukulele's sold, one is given away. Ever 20 kilos of red rice sold, one is given away.</i>   https://github.com/Microflow/Buy-Some-Give-One
 <br><br>
