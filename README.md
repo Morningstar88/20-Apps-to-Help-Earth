@@ -39,23 +39,27 @@ Then, add a link to the bookmark ("Useful Tips Section"), from within the same p
 <br>
 <br>
 <h2 align="center">Tron-funding</h2> <i> <a href="#tips">Gamified Crowdfunding."</a>Two players fight to win crowdfunded cash for their organic projects. Head to head challenges on any game: Biplanes, Speed Racers, Sword-fights, Chess. Each player represents an organic project.</i>  
-
+<br>
 <ul align="center"> https://github.com/Microflow/Tron-funding</ul>
 <br><br>
 <h2 align="center">Buy Some Give One</h2> <i> For every 10 Ukulele's sold, one is given away. Ever 20 kilos of red rice sold, one is given away.</i>   
-
+<br>
 <ul align="center"> https://github.com/Microflow/Buy-Some-Give-One</ul>
 <br><br>
 <h2 align="center">Tree Planting Apps</h2><i> Gamifiying and funding treeplanting. Treefund and Treekachu.</i>  
+<br>
 <ul align="center">https://github.com/Microflow/Treekachu</ul>
 <br><br>
 <h2 align="center">Environmental Hackathons</h2><i> Students in India, Bangladesh, Switzerland... where-ever. Build apps to solve problems.</i>  
+<br>
 <ul align="center">-http://codepen.io/Teeke/pen/dXapmA</ul>
 <br><br>
 <h2 align="center">Infographic Generators</h2><i> Your message to the world in a choice of 20 beautiful fonts.</i>  
+<br>
 <ul align="center">https://github.com/Microflow/Robin-Hood-Army-Infographic-Generator</ul>
 <br><br>
 <h2 align="center">The Real Farmville</h2> <i> Funding farming live. Watch plants grow in time lapse. Feed a kid somewhere.</i> 
+<br>
 <ul align ="center">https://github.com/Microflow/The-Real-Farmville/tree/master</ul>
 <br><br>
 <h2 align="center">65% Funded Crowdfunding</h2><i> John has 700USD to build a rooftop hydroponic farm. He needs another 300USD. Can his friends pitch in and give him 300USD?</i>
