@@ -22,19 +22,17 @@ Then, add a link to the bookmark ("Useful Tips Section"), from within the same p
 
 <h2>A collection of mobile and web apps solving water shortages, deforestation, poverty, unemployment, and food waste. In 2016, we can create decentralized change without corporate interference...</h2> 
 
-<h3>Note: The formatting on this document is a complete mess right now. Doc is in very early stages. Won't be finished for at least a month. If you want to help clean it up, plz go ahead and send a pull request</h2>
-
+<p align="center">
+<img src="http://i.imgur.com/42bYJfQ.jpg">
+</p>
 
 <br><br>
 
 <h1 align="center";>Quick List of Prototypes</h1>
 <br>
-<p align="center">
-<img src="industry-vintage-old-fabric.jpg">
-</p>
 <br>
 <br>
-<h2 align="center">Tron-funding</h2> <i> <a href="#tips">Gamified Crowdfunding."</a>Two players fight to win crowdfunded cash for their organic projects. Head to head challenges on any game: Biplanes, Speed Racers, Sword-fights, Chess. Each player represents an organic project. Winning project wins 75% of the prize fund, second place wins 25%.</i>  
+<h2 align="center">Tron-funding</h2> <i> <a href="#tips">Turning Crowdfunding into a multiplayer game.</a>Two players compete to win crowdfunded cash for their environmental projects. Head to head challenges on any game: Biplanes, Speed Racers, Sword-fights, Chess. Each player represents an organic project. Winning project wins 75% of the prize fund, second place wins 25%.</i>  
 <br><br>
 
 <ul align="center"> https://github.com/Microflow/Tron-funding</ul>
