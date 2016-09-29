@@ -104,20 +104,22 @@ https://github.com/sscaff1/hopePing
 
 
 
-<h2>Other People's Apps</h2>
+
+<h1 align="center">These Apps Work Now</h1>
+
 - Food Sharing Apps.
 - Free Computer Education.
 - Fair Priced Computer Courses.
 - Tron Sphere
 
-<h2 align="center">These Apps Work Now</h2>
+<h2 align="center">Problem: Food waste. Earth throws away half of its food.</h2> 
+
+<h2 align="center">Food Sharing Apps + Websites</h2>
+
 <p align="center">
 <img width="350px" height="300px" src="http://i.imgur.com/25fikTd.jpg" text-align="center">
 </p>
 
-<h2 align="center">Problem: Food waste. Earth throws away half of its food.</h2> 
-
-<h2 align="center">Food Sharing Apps + Websites</h2>
 
 - <a href="http://robinhoodarmy.com/">Robin Hood Army</a> - Decentralized group that takes no donations. Feeds surplus restaurant food to the poor. 
 
