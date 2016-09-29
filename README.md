@@ -37,29 +37,36 @@ Then, add a link to the bookmark ("Useful Tips Section"), from within the same p
 
 <ul align="center"> https://github.com/Microflow/Tron-funding</ul>
 <br><br>
-<h2 align="center">Buy Some Give One</h2> <h3 align="center">For every 10 Ukulele's sold, one is given away. Ever 20 kilos of red rice sold, one is given away.</h3>  
+<h2 align="center">Buy Some Give One</h2> <h3 align="center">Online marketplace where buying stimulates giving. For every 10 Ukulele's sold, one is given away. Ever 20 kilos of red rice sold, one is given away. Portal links through to merchants who pledge to give away one product for every ten or twenty they sell. Operating revenue comes from advertising, donations, or monthly subscriptions from merchants.   </h3>  
 <br>
 
 <ul align="center"> https://github.com/Microflow/Buy-Some-Give-One</ul>
 <br><br>
-<h2 align="center">Tree Planting Apps</h2><h3 align="center">Gamifiying and funding treeplanting. Treekachu.</h3>
+<h2 align="center">Tree Planting Apps</h2><h3 align="center">Gamifiying and funding treeplanting. Pokemon Go showed us how Augmented Reality (AR) can make an outdoor group game. Treekachu, based loosely on Pokemon Go, uses AR to pinpoint potential tree-planting sites. 
+India planted 50 million trees in Summer 2016, can apps make the tree planting process more fun?
+</h3>
 <br><br>
 
 <ul align="center">https://github.com/Microflow/Treekachu</ul>
 <br><br>
-<h2 align="center">Environmental Hackathons</h2><i> Students in India, Bangladesh, Switzerland... where-ever. Build apps to solve problems.</i>  
+<h2 align="center">Environmental Hackathons</h2><h2 align="center"> Students in India, Bangladesh, Switzerland... where-ever. Build apps to solve problems. Water filtration, safety at night, fund-raising, donations, organic farming. There's an app to help every process. Working with students to build apps faster and quicker will speed up the process.</h2>  
 <br><br>
 
 <ul align="center">-http://codepen.io/Teeke/pen/dXapmA</ul>
 <br><br>
-<h2 align="center">Infographic Generators</h2><i> Your message to the world in a choice of 20 beautiful fonts.</i>  
+<h2 align="center">Infographic Generators</h2><h2 align="center"> Your message to the world in a choice of 20 beautiful fonts. Prototype working right now. Help iron out the bugs if you want. </h2>  
 <br><br>
-
 <ul align="center">https://github.com/Microflow/Robin-Hood-Army-Infographic-Generator</ul>
 <br><br>
-<h2 align="center">The Real Farmville</h2> <i> Funding farming live. Watch plants grow in time lapse. Feed a kid somewhere.</i> 
-<br><br>
 
+<h2 align="center">Quiet People Meetup Apps</h2><i>Programmers, farmers, musicians, writers. We inherited the Earth, now lets meet.</i>
+<br><br>
+<ul align="center">https://github.com/zippyui/meetup-app</ul>
+
+<h2 align="center">Donation Apps</h2>
+
+<h2 align="center">The Real Farmville</h2> <i> Fund farmers in distant lands. Watch crops grow in time lapse. Stimulate organic farming.</i> 
+<br><br>
 <ul align ="center">https://github.com/Microflow/The-Real-Farmville/tree/master</ul>
 <br><br>
 <h2 align="center">65% Funded Crowdfunding</h2><i> John has 700USD to build a rooftop hydroponic farm. He needs another 300USD. Can his friends pitch in and give him 300USD?</i>
@@ -68,8 +75,7 @@ Then, add a link to the bookmark ("Useful Tips Section"), from within the same p
 <br><br>
  https://community.greentech.nl/crops/b/industry-news/posts/growing-interest-for-indoor-farming-in-mexico
 
-<h2 align="center">Nerd Meetup Apps</h2><i>Programmers, farmers, musicians, writer. We inherited the Earth, now lets meet.</i>
-<br><br>
+
 <h2 align="center">Niche Crowdfunding.</h2>Ultra-specific fund-raising.</strong> 
 Honeyfund proved that a niche finance app could raise lots of money. We're going to build one generic fund-raising app that can be forked and used for specific crowdfunding websites based on cleaning garbage, solar energy, herbal medicine and more. 
 https://www.honeyfund.com/<i>Alfalfa, Solar Dehydration.</i> 
