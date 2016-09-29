@@ -66,7 +66,7 @@ India planted 50 million trees in Summer 2016, can apps make the tree planting p
 <img src="pexels-photo-132657.jpeg">
 </p>
 
-<h2 align="center">:grapes:The Real Farmville:seedling:</h2> <h3 align="center"> Fund farmers in distant lands. Watch crops grow in time lapse. Stimulate organic farming worldwide.:earth_africa:</h3> 
+<h2 align="center">:grapes:The Real Farmville:seedling:</h2> <h3 align="center"> Fund farmers in distant lands. Watch crops grow in time lapse. Stimulate organic farming worldwide.</h3> 
 <br><br>
 <ul align ="center">https://github.com/Microflow/The-Real-Farmville/tree/master</ul>
 <br><br>
@@ -79,7 +79,7 @@ India planted 50 million trees in Summer 2016, can apps make the tree planting p
 
 
 <h2 align="center">Niche Crowdfunding</h2><h3 align="center">Ultra-specific fund-raising.
-[Honeyfund](https://www.honeyfund.com) proved that a niche finance app could raise lots of money. We're going to build one generic fund-raising app that can be forked and used for specific purposes: cleaning garbage, solar energy, herbal medicine, solar energy and more. 
+<a href="https://www.honeyfund.com">Honeyfund</a> proved that a niche finance app could raise lots of money. We're going to build one generic fund-raising app that can be forked and used for specific purposes: cleaning garbage, solar energy, herbal medicine, solar energy and more. 
 </h3> 
 <br><br>
 
