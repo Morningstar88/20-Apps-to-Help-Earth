@@ -32,13 +32,13 @@ Then, add a link to the bookmark ("Useful Tips Section"), from within the same p
 <br>
 <br>
 <br>
-<h2 align="center">Tron-funding</h2> <a href="#tips">Turning Crowdfunding into a multiplayer game.</a><h3 align="center">Two players compete to win crowdfunded cash for their environmental projects. Head to head challenges on any game: Biplanes, Speed Racers, Sword-fights, Chess. Each player represents an organic project. Winning project wins 75% of the prize fund, second place wins 25%.</h3>  
-<br><br>
+<h2 align="center">Tron-funding</h2>  <h3 align="center">Turning Crowdfunding into a multiplayer game. Two players compete to win crowdfunded cash for their environmental projects. Head to head challenges on any game: Biplanes, Speed Racers, Sword-fights, Chess. Each player represents an organic project. Winning project wins 75% of the prize fund, second place wins 25%.</h3>  
+<br>
 
 <ul align="center"> https://github.com/Microflow/Tron-funding</ul>
 <br><br>
-<h2 align="center">Buy Some Give One</h2> <i> For every 10 Ukulele's sold, one is given away. Ever 20 kilos of red rice sold, one is given away.</i>   
-<br><br>
+<h2 align="center">Buy Some Give One</h2> <h3 align="center">For every 10 Ukulele's sold, one is given away. Ever 20 kilos of red rice sold, one is given away.</h3>  
+<br>
 
 <ul align="center"> https://github.com/Microflow/Buy-Some-Give-One</ul>
 <br><br>
