@@ -113,8 +113,15 @@ https://github.com/sscaff1/hopePing
 - Tron Sphere
 
 <h2 align="center">Problem: Food waste. Earth throws away half of its food.</h2> 
+<img src="pexels-photo (1).jpg">	
 
-<h2 align="center">Food Sharing Apps + Websites</h2>
+
+
+
+
+
+
+<h2 align="center">Apps that Solve Food Waste: Food Sharing</h2>
 
 <p align="center">
 <img width="350px" height="300px" src="http://i.imgur.com/25fikTd.jpg" text-align="center">
@@ -145,11 +152,10 @@ https://github.com/sscaff1/hopePing
 
 <a href="https://www.ecosia.org">Ecosia Search Engine</a> - A Browser that plants trees. Over 500,000 trees planted. 
 
-<h2 align="center">Problem: Computer Education is Expensive.</h2>
+<h2 align="center">Free Computer Education.</h2>
 <p align="center">
-
+<img src="pexels-city-at-night.jpeg">
 </p>
-<h2 align="center">Free Computer Education</h2>
 
 - <a href="www.freecodecamp.com">Free Code Camp</a>
 
@@ -160,6 +166,7 @@ https://github.com/sscaff1/hopePing
 
 <br><br><br>
 
+<img src="pexels-photo-132657.jpeg">
 
 
 
