@@ -122,17 +122,17 @@ https://github.com/sscaff1/hopePing
 
 - <a href="http://wastenofood.org">WasteNoFood</a>
 
-<h2 align="center">Food Sharing Apps on Google Play and Itunes</h2>
+<h2 align="center">:ferris_wheel:Food Sharing Apps on Google Play and Itunes:mount_fuji:</h2>
 
 - <a href="https://play.google.com/store/apps/details?id=com.wastenofood.app&hl=en">Waste No Food: Google Play</a>
 
 - <a href="https://itunes.apple.com/us/app/wastenofood/id866786935?mt=8">Waste No Food: Itunes</a>
 
-<h2 align="center">Food Sharing Media</h2>
+<h2 align="center">Food Sharing Apps in the Media</h2>
 
 - <a href="http://fortune.com/2015/04/16/could-these-apps-solve-americas-huge-food-waste-problem/">Forbes on Food Sharing Apps</a>
 
-<br><br><br>
+<br><br>
 
 <h2 align="center">Tree Planting</h2>
 
@@ -140,7 +140,7 @@ https://github.com/sscaff1/hopePing
 
 <h2 align="center">Free Computer Education.</h2>
 <p align="center">
-<img width="500px" height="400px" src="pexels-city-at-night.jpeg">
+<img width="800px" height="600px" src="pexels-city-at-night.jpeg">
 </p>
 
 - <a href="www.freecodecamp.com">Free Code Camp</a>
