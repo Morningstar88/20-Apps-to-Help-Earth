@@ -145,13 +145,13 @@ https://github.com/sscaff1/hopePing
 
 <h2 align="center">Food Sharing Media</h2>
 
-<a href="http://fortune.com/2015/04/16/could-these-apps-solve-americas-huge-food-waste-problem/">Forbes on Food Sharing Apps</a>
+- <a href="http://fortune.com/2015/04/16/could-these-apps-solve-americas-huge-food-waste-problem/">Forbes on Food Sharing Apps</a>
 
 <br><br><br>
 
 <h2 align="center">Tree Planting</h2>
 
-<a href="https://www.ecosia.org">Ecosia Search Engine</a> - A Browser that plants trees. Over 500,000 trees planted. 
+- <a href="https://www.ecosia.org">Ecosia Search Engine</a> - A Browser that plants trees. Over 500,000 trees planted. 
 
 <h2 align="center">Free Computer Education.</h2>
 <p align="center">
@@ -165,9 +165,9 @@ https://github.com/sscaff1/hopePing
 - <a href="https://academy.zenva.com">Zenva Academy</a>
 - <a href="https://school.codequs.com/">Codequs</a>
 
-<br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
-
+<img width="800px" height="500" src=">
 
 
 
