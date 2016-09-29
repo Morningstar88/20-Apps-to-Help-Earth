@@ -61,26 +61,32 @@ India planted 50 million trees in Summer 2016, can apps make the tree planting p
 <br><br>
 
 
-<h2 align="center">Donation Apps</h2>
+<h1 align="center">Donation Apps</h2>
+<p align="center">
+<img src="pexels-photo-132657.jpeg">
+</p>
 
 <h2 align="center">The Real Farmville</h2> <h3 align="center"> Fund farmers in distant lands. Watch crops grow in time lapse. Stimulate organic farming worldwide.</h3> 
 <br><br>
 <ul align ="center">https://github.com/Microflow/The-Real-Farmville/tree/master</ul>
 <br><br>
+ <p align="center">https://community.greentech.nl/crops/b/industry-news/posts/growing-interest-for-indoor-farming-in-mexico</p>
+<br><br>
 <h2 align="center">65% Funded Crowdfunding</h2><h3 align="center"> John has 700USD to build a rooftop hydroponic farm. He needs another 300USD. Can his friends pitch in and give him 300USD?</h3>
 <br><br>
 <h2 align="center">Fund challenge  </h2><h3 align="center"> Mysterious investor puts 1000USD on the table for an orphanage. Can the public match another 1000USD? Mysterious budget investor puts out 15USD to buy 15 water filters. Can the locals match another 15USD?</h3>
 <br><br>
- https://community.greentech.nl/crops/b/industry-news/posts/growing-interest-for-indoor-farming-in-mexico
 
 
 <h2 align="center">Niche Crowdfunding.</h2><h3 align="center">Ultra-specific fund-raising.
-Honeyfund proved that a niche finance app could raise lots of money. We're going to build one generic fund-raising app that can be forked and used for specific crowdfunding websites based on cleaning garbage, solar energy, herbal medicine and more. 
-<i>Alfalfa, Solar Dehydration.</h3> https://www.honeyfund.com/
+[Honeyfund](https://www.honeyfund.com) proved that a niche finance app could raise lots of money. We're going to build one generic fund-raising app that can be forked and used for specific purposes: cleaning garbage, solar energy, herbal medicine, solar energy and more. 
+</h3> 
 <br><br>
-Found a donation app, can we clone this?
+
 
 <p align="center">
+
+Found a donation app, can we clone this?
 https://github.com/sscaff1/hopePing
 </p>
 
@@ -88,7 +94,7 @@ https://github.com/sscaff1/hopePing
 
 
 <p align="center">
-<img src="http://i.imgur.com/v6w17QK.jpg">
+<img src="http://i.imgur.com/v6w17QK.jpg" style="width:30px;height:25px;">
 </p>
 
 
