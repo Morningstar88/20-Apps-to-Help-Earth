@@ -113,8 +113,9 @@ https://github.com/sscaff1/hopePing
 - Tron Sphere
 
 <h2 align="center">Problem: Food waste. Earth throws away half of its food.</h2> 
+<p align="center">
 <img src="pexels-photo (1).jpg">	
-
+</p>
 
 
 
@@ -166,7 +167,7 @@ https://github.com/sscaff1/hopePing
 
 <br><br><br>
 
-<img src="pexels-photo-132657.jpeg">
+
 
 
 
