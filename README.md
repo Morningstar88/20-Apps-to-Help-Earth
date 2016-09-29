@@ -68,8 +68,7 @@ India planted 50 million trees in Summer 2016, can apps make the tree planting p
 
 <h2 align="center">:grapes:The Real Farmville:seedling:</h2> <h3 align="center"> Fund farmers in distant lands. Watch crops grow in time lapse. Stimulate organic farming worldwide.</h3> 
 <ul align ="center">https://github.com/Microflow/The-Real-Farmville/tree/master</ul>
- <br>
- <p align="center">https://community.greentech.nl/crops/b/industry-news/posts/growing-interest-for-indoor-farming-in-mexico</p>
+<p align="center">https://community.greentech.nl/crops/b/industry-news/posts/growing-interest-for-indoor-farming-in-mexico</p>
 <br><br>
 <h2 align="center">65% Funded Crowdfunding</h2><h3 align="center"> John has 700USD to build a rooftop hydroponic farm. He needs another 300USD. Can his friends pitch in and give him 300USD?</h3>
 <br><br>
