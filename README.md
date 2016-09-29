@@ -48,14 +48,14 @@ India planted 50 million trees in Summer 2016, can apps make the tree planting p
 <br>
 <ul align="center">https://github.com/Microflow/Treekachu</ul>
 <br><br>
-<h2 align="center">Environmental Hackathons</h2><h2 align="center"> Students in India, Bangladesh, Switzerland... where-ever. Build apps to solve problems. Water filtration, safety at night, fund-raising, donations, organic farming. There's an app to help every process. Working with students to build apps faster and quicker will speed up the process.</h2>  
+<h2 align="center">Environmental Hackathons</h2><h3 align="center"> Students in India, Bangladesh, Switzerland... where-ever. Build apps to solve problems. Water filtration, safety at night, fund-raising, donations, organic farming. There's an app to help every process. Working with students to build apps faster and quicker will speed up the process.</h3>  
 <ul align="center">-http://codepen.io/Teeke/pen/dXapmA</ul>
 <br><br>
-<h2 align="center">Infographic Generators</h2><h2 align="center"> Your message to the world in a choice of 20 beautiful fonts. Prototype working right now. Help iron out the bugs if you want. </h2>  
+<h2 align="center">Infographic Generators</h2><h3 align="center"> Your message to the world in a choice of 20 beautiful fonts. Prototype working right now. Help iron out the bugs if you want. </h3>  
 <ul align="center">https://github.com/Microflow/Robin-Hood-Army-Infographic-Generator</ul>
 <br><br>
 
-<h2 align="center">Quiet People Meetup Apps</h2><i>Programmers, farmers, musicians, writers. We inherited the Earth, now lets meet.</i>
+<h2 align="center">Quiet People Meetup Apps</h2><h3 align="center">Programmers, farmers, musicians, writers. We inherited the Earth, now lets meet.</h3>
 <br><br>
 <ul align="center">https://github.com/zippyui/meetup-app</ul>
 <br><br>
@@ -63,20 +63,20 @@ India planted 50 million trees in Summer 2016, can apps make the tree planting p
 
 <h2 align="center">Donation Apps</h2>
 
-<h2 align="center">The Real Farmville</h2> <h2 align="center"> Fund farmers in distant lands. Watch crops grow in time lapse. Stimulate organic farming.</h2> 
+<h2 align="center">The Real Farmville</h2> <h3 align="center"> Fund farmers in distant lands. Watch crops grow in time lapse. Stimulate organic farming.</h3> 
 <br><br>
 <ul align ="center">https://github.com/Microflow/The-Real-Farmville/tree/master</ul>
 <br><br>
-<h2 align="center">65% Funded Crowdfunding</h2><h2 align="center"> John has 700USD to build a rooftop hydroponic farm. He needs another 300USD. Can his friends pitch in and give him 300USD?</h2>
+<h2 align="center">65% Funded Crowdfunding</h2><h3 align="center"> John has 700USD to build a rooftop hydroponic farm. He needs another 300USD. Can his friends pitch in and give him 300USD?</h3>
 <br><br>
-<h2 align="center">Fund challenge  </h2><h2 align="center"> Mysterious investor puts 1000USD on the table for an orphanage. Can the public match another 1000USD? Mysterious budget investor puts out 15USD to buy 15 water filters. Can the locals math another 15USD?</h2>
+<h2 align="center">Fund challenge  </h2><h3 align="center"> Mysterious investor puts 1000USD on the table for an orphanage. Can the public match another 1000USD? Mysterious budget investor puts out 15USD to buy 15 water filters. Can the locals math another 15USD?</h3>
 <br><br>
  https://community.greentech.nl/crops/b/industry-news/posts/growing-interest-for-indoor-farming-in-mexico
 
 
-<h2 align="center">Niche Crowdfunding.</h2><h2 align="center">Ultra-specific fund-raising.
+<h2 align="center">Niche Crowdfunding.</h2><h3 align="center">Ultra-specific fund-raising.
 Honeyfund proved that a niche finance app could raise lots of money. We're going to build one generic fund-raising app that can be forked and used for specific crowdfunding websites based on cleaning garbage, solar energy, herbal medicine and more. 
-https://www.honeyfund.com/<i>Alfalfa, Solar Dehydration.</h2> 
+https://www.honeyfund.com/<i>Alfalfa, Solar Dehydration.</h3> 
 <br><br>
 https://www.youtube.com/watch?v=5K7ykw976zs
 <br><br>
