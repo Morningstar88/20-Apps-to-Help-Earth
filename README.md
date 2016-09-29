@@ -107,25 +107,10 @@ https://github.com/sscaff1/hopePing
 
 <h1 align="center">These Apps Work Now</h1>
 
-- Food Sharing Apps.
-- Free Computer Education.
-- Fair Priced Computer Courses.
-- Tron Sphere
-
-<h2 align="center">Problem: Food waste. Earth throws away half of its food.</h2> 
-<p align="center">
-<img src="pexels-photo (1).jpg">	
-</p>
-
-
-
-
-
-
 <h2 align="center">Apps that Solve Food Waste: Food Sharing</h2>
 
 <p align="center">
-<img width="350px" height="300px" src="http://i.imgur.com/25fikTd.jpg" text-align="center">
+<img width="550px" height="400px" src="http://i.imgur.com/25fikTd.jpg" text-align="center">
 </p>
 
 
