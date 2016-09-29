@@ -62,23 +62,25 @@ India planted 50 million trees in Summer 2016, can apps make the tree planting p
 <h2 align="center">Quiet People Meetup Apps</h2><i>Programmers, farmers, musicians, writers. We inherited the Earth, now lets meet.</i>
 <br><br>
 <ul align="center">https://github.com/zippyui/meetup-app</ul>
+<br><br>
+
 
 <h2 align="center">Donation Apps</h2>
 
-<h2 align="center">The Real Farmville</h2> <i> Fund farmers in distant lands. Watch crops grow in time lapse. Stimulate organic farming.</i> 
+<h2 align="center">The Real Farmville</h2> <h2 align="center"> Fund farmers in distant lands. Watch crops grow in time lapse. Stimulate organic farming.</h2> 
 <br><br>
 <ul align ="center">https://github.com/Microflow/The-Real-Farmville/tree/master</ul>
 <br><br>
-<h2 align="center">65% Funded Crowdfunding</h2><i> John has 700USD to build a rooftop hydroponic farm. He needs another 300USD. Can his friends pitch in and give him 300USD?</i>
+<h2 align="center">65% Funded Crowdfunding</h2><h2 align="center"> John has 700USD to build a rooftop hydroponic farm. He needs another 300USD. Can his friends pitch in and give him 300USD?</h2>
 <br><br>
-<h2 align="center">Fund challenge  </h2><i> Mysterious investor puts 1000USD on the table for an orphanage. Can the public match another 1000USD? Mysterious budget investor puts out 15USD to buy 15 water filters. Can the locals math another 15USD?</i>
+<h2 align="center">Fund challenge  </h2><h2 align="center"> Mysterious investor puts 1000USD on the table for an orphanage. Can the public match another 1000USD? Mysterious budget investor puts out 15USD to buy 15 water filters. Can the locals math another 15USD?</h2>
 <br><br>
  https://community.greentech.nl/crops/b/industry-news/posts/growing-interest-for-indoor-farming-in-mexico
 
 
-<h2 align="center">Niche Crowdfunding.</h2>Ultra-specific fund-raising.</strong> 
+<h2 align="center">Niche Crowdfunding.</h2><h2 align="center">Ultra-specific fund-raising.
 Honeyfund proved that a niche finance app could raise lots of money. We're going to build one generic fund-raising app that can be forked and used for specific crowdfunding websites based on cleaning garbage, solar energy, herbal medicine and more. 
-https://www.honeyfund.com/<i>Alfalfa, Solar Dehydration.</i> 
+https://www.honeyfund.com/<i>Alfalfa, Solar Dehydration.</h2> 
 <br><br>
 https://www.youtube.com/watch?v=5K7ykw976zs
 <br><br>
@@ -153,7 +155,7 @@ https://github.com/sscaff1/hopePing
 
 <h2 align="center">Tree Planting</h2>
 
-<href="https://www.ecosia.org">Ecosia Search Engine</a> - A Browser that plants trees. Over 500,000 trees planted. 
+<a href="https://www.ecosia.org">Ecosia Search Engine</a> - A Browser that plants trees. Over 500,000 trees planted. 
 
 <h2 align="center">Problem: Computer Education is Expensive.</h2>
 <p align="center">
