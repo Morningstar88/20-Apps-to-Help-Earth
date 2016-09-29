@@ -68,7 +68,7 @@ India planted 50 million trees in Summer 2016, can apps make the tree planting p
 
 <h2 align="center">:grapes:The Real Farmville:seedling:</h2> <h3 align="center"> Fund farmers in distant lands. Watch crops grow in time lapse. Stimulate organic farming worldwide.</h3> 
 <ul align ="center">https://github.com/Microflow/The-Real-Farmville/tree/master</ul>
-<p align="center">https://community.greentech.nl/crops/b/industry-news/posts/growing-interest-for-indoor-farming-in-mexico</p>
+<a href="https://community.greentech.nl/crops/b/industry-news/posts/growing-interest-for-indoor-farming-in-mexico"; style="center";>Growing interest in indoor farming in Mexico</a>
 <br><br>
 <h2 align="center">65% Funded Crowdfunding</h2><h3 align="center"> John has 700USD to build a rooftop hydroponic farm. He needs another 300USD. Can his friends pitch in and give him 300USD?</h3>
 <br><br>
@@ -104,13 +104,13 @@ https://github.com/sscaff1/hopePing
 
 
 
-<h2>Apss that look great</h2>
+<h2>Other People's Apps</h2>
 - Food Sharing Apps.
 - Free Computer Education.
 - Fair Priced Computer Courses.
 - Tron Sphere
 
-<h2 align="center">In Production</h2>
+<h2 align="center">These Apps Work Now</h2>
 <p align="center">
 <img width="350px" height="300px" src="http://i.imgur.com/25fikTd.jpg" text-align="center">
 </p>
@@ -121,15 +121,9 @@ https://github.com/sscaff1/hopePing
 
 - <a href="http://robinhoodarmy.com/">Robin Hood Army</a> - Decentralized group that takes no donations. Feeds surplus restaurant food to the poor. 
 
-<br>
-
 - <a href="https://www.youtube.com/watch?v=MB5YaETLJNk">Robin Hood Army BBC newsclip</a> - Overview of the Robin Hood Army in Action.
 
-<br>
-
 - <a href="http://olioex.com">Olioex</a> - Connects Shops and Neighbours so food can be shared. Over 100,000 items shared between 80,000 people. 
-
-<br>
 
 - <a href="http://wastenofood.org">WasteNoFood</a>
 
@@ -137,15 +131,11 @@ https://github.com/sscaff1/hopePing
 
 - <a href="https://play.google.com/store/apps/details?id=com.wastenofood.app&hl=en">Waste No Food: Google Play</a>
 
-<br>
-
 - <a href="https://itunes.apple.com/us/app/wastenofood/id866786935?mt=8">Waste No Food: Itunes</a>
-
-<br>
 
 <h2 align="center">Food Sharing Media</h2>
 
-- <a href="http://fortune.com/2015/04/16/could-these-apps-solve-americas-huge-food-waste-problem/">Forbes on Food Sharing Apps</a>
+<a href="http://fortune.com/2015/04/16/could-these-apps-solve-americas-huge-food-waste-problem/">Forbes on Food Sharing Apps</a>
 
 <br><br><br>
 
@@ -170,8 +160,4 @@ https://github.com/sscaff1/hopePing
 
 
 
-<style>
-body {
-font-family: 'Raleway', sans-serif;
-}
-</style>
+
