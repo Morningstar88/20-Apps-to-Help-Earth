@@ -139,7 +139,7 @@ https://github.com/sscaff1/hopePing
 <h2 align="center">Tree Planting</h2>
 
 - <a href="https://www.ecosia.org">Ecosia Search Engine</a> - A Browser that plants trees. Over 500,000 trees planted. 
-:palm_tree::deciduous_tree::evergreen_tree:
+<h3>:palm_tree::deciduous_tree::evergreen_tree:</h3>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
 <p align="center">
