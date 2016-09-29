@@ -49,11 +49,9 @@ India planted 50 million trees in Summer 2016, can apps make the tree planting p
 <ul align="center">https://github.com/Microflow/Treekachu</ul>
 <br><br>
 <h2 align="center">Environmental Hackathons</h2><h2 align="center"> Students in India, Bangladesh, Switzerland... where-ever. Build apps to solve problems. Water filtration, safety at night, fund-raising, donations, organic farming. There's an app to help every process. Working with students to build apps faster and quicker will speed up the process.</h2>  
-<br>
 <ul align="center">-http://codepen.io/Teeke/pen/dXapmA</ul>
 <br><br>
 <h2 align="center">Infographic Generators</h2><h2 align="center"> Your message to the world in a choice of 20 beautiful fonts. Prototype working right now. Help iron out the bugs if you want. </h2>  
-<br>
 <ul align="center">https://github.com/Microflow/Robin-Hood-Army-Infographic-Generator</ul>
 <br><br>
 
