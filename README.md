@@ -155,7 +155,7 @@ https://github.com/sscaff1/hopePing
 
 <h2 align="center">Free Computer Education.</h2>
 <p align="center">
-<img src="pexels-city-at-night.jpeg">
+<img width="500px" height="400px" src="pexels-city-at-night.jpeg">
 </p>
 
 - <a href="www.freecodecamp.com">Free Code Camp</a>
