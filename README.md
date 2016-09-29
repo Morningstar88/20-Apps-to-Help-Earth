@@ -24,10 +24,6 @@ Then, add a link to the bookmark ("Useful Tips Section"), from within the same p
 
 <h3>Note: The formatting on this document is a complete mess right now. Doc is in very early stages. Won't be finished for at least a month. If you want to help clean it up, plz go ahead and send a pull request</h2>
 
-<p align="center">
-<img src="http://i.imgur.com/42bYJfQ.jpg">
-</p>
-
 
 <br><br>
 
