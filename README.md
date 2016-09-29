@@ -38,7 +38,7 @@ Then, add a link to the bookmark ("Useful Tips Section"), from within the same p
 </p>
 <br>
 <br>
-<h2 align="center">Tron-funding</h2> <i> <a href="#tips">Gamified Crowdfunding."</a>Two players fight to win crowdfunded cash for their organic projects. Head to head challenges on any game: Biplanes, Speed Racers, Sword-fights, Chess. Each player represents an organic project.</i>  
+<h2 align="center">Tron-funding</h2> <i> <a href="#tips">Gamified Crowdfunding."</a>Two players fight to win crowdfunded cash for their organic projects. Head to head challenges on any game: Biplanes, Speed Racers, Sword-fights, Chess. Each player represents an organic project. Winning project wins 75% of the prize fund, second place wins 25%.</i>  
 <br><br>
 
 <ul align="center"> https://github.com/Microflow/Tron-funding</ul>
