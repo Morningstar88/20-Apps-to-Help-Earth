@@ -68,7 +68,9 @@ India planted 50 million trees in Summer 2016, can apps make the tree planting p
 
 <h2 align="center">:grapes:The Real Farmville:seedling:</h2> <h3 align="center"> Fund farmers in distant lands. Watch crops grow in time lapse. Stimulate organic farming worldwide.</h3> 
 <ul align ="center">https://github.com/Microflow/The-Real-Farmville/tree/master</ul>
+<p align="center">
 <a href="https://community.greentech.nl/crops/b/industry-news/posts/growing-interest-for-indoor-farming-in-mexico"; style="center";>Growing interest in indoor farming in Mexico</a>
+</p>
 <br><br>
 <h2 align="center">65% Funded Crowdfunding</h2><h3 align="center"> John has 700USD to build a rooftop hydroponic farm. He needs another 300USD. Can his friends pitch in and give him 300USD?</h3>
 <br><br>
@@ -105,7 +107,7 @@ https://github.com/sscaff1/hopePing
 
 
 
-<h1 align="center">These Apps Work Now</h1>
+<h1 align="center">Other PRogrammer's App. Downloadable Now</h1>
 
 <h2 align="center">Apps that Solve Food Waste: Food Sharing</h2>
 
@@ -137,11 +139,13 @@ https://github.com/sscaff1/hopePing
 <h2 align="center">Tree Planting</h2>
 
 - <a href="https://www.ecosia.org">Ecosia Search Engine</a> - A Browser that plants trees. Over 500,000 trees planted. 
+:palm_tree::deciduous_tree::evergreen_tree:
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h2 align="center">Free Computer Education.</h2>
 <p align="center">
 <img width="800px" height="600px" src="pexels-city-at-night.jpeg">
 </p>
+<h2 align="center">Free Computer Education.</h2>
 
 - <a href="www.freecodecamp.com">Free Code Camp</a>
 
