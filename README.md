@@ -63,7 +63,7 @@ India planted 50 million trees in Summer 2016, can apps make the tree planting p
 
 <h2 align="center">Donation Apps</h2>
 
-<h2 align="center">The Real Farmville</h2> <h3 align="center"> Fund farmers in distant lands. Watch crops grow in time lapse. Stimulate organic farming.</h3> 
+<h2 align="center">The Real Farmville</h2> <h3 align="center"> Fund farmers in distant lands. Watch crops grow in time lapse. Stimulate organic farming worldwide.</h3> 
 <br><br>
 <ul align ="center">https://github.com/Microflow/The-Real-Farmville/tree/master</ul>
 <br><br>
