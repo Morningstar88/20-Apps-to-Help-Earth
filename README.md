@@ -161,7 +161,8 @@ https://github.com/Microflow/AI-Byzantine-Chess
 
 <br><br><br><br><br><br><br><br><br>
 
+<p align="center">
 <img width="800px" height="500" src="laptop-notebook-working-outside.jpg">
-
+</p>
 
 
