@@ -55,7 +55,7 @@ India planted 50 million trees in Summer 2016, can apps make the tree planting p
 <ul align="center">https://github.com/Microflow/Robin-Hood-Army-Infographic-Generator</ul>
 <br><br>
 
-<h2 align="center">Quiet People Meetup Apps</h2><h3 align="center">Programmers, farmers, musicians, writers. We inherited the Earth, now lets meet.</h3>
+<h2 align="center">Quiet People Meetup Apps</h2><h3 align="center">Programmers, farmers, musicians, writers. We inherited the Earth, now let's meet.</h3>
 <br><br>
 <ul align="center">https://github.com/zippyui/meetup-app</ul>
 <br><br>
@@ -83,7 +83,9 @@ India planted 50 million trees in Summer 2016, can apps make the tree planting p
 Found a donation app, can we clone this?
 https://github.com/sscaff1/hopePing
 </p>
-<h2 align="cemter">AI Byzantine Chess></h2><h3 align="center">
+<br>
+<br>
+<h2 align="center">AI Byzantine Chess</h2><h3 align="center">
 Online chess. Teams play head to head, openly advised by AIs. They discuss the moves in public. Infiltrators, spies and double agents are permitted. Each team plays for a crowdfunded prize fund. The winning team wins money for their sponsored project. 75 percent for the winner, 25 percent for the second place team</h3>
 </h3>
 <p align="center">
