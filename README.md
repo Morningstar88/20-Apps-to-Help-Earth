@@ -60,7 +60,11 @@ India planted 50 million trees in Summer 2016, can apps make the tree planting p
 <br><br>
 <ul align="center">https://github.com/zippyui/meetup-app</ul>
 <br><br>
-
+<h2 align="center">Silent Rave Meetup App</h2><h3 align="center">100 people listening to a DJ outdoors on high quality headphones. Silent Raves avoid 95 percent of the legal and social problems associated with outdoor parties.</h3>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=_g7oh0SgiWQ">Silent Rave, Miami King Library</a><br>
+<a href="https://www.youtube.com/watch?v=BQlYI9C0zIk">Sennheiser Silent Rave</a>
+</p>
 
 <h1 align="center">:crescent_moon:Donation Apps:deciduous_tree:</h1>
 <p align="center">
