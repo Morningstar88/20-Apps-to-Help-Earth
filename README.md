@@ -76,8 +76,6 @@ India planted 50 million trees in Summer 2016, can apps make the tree planting p
 <br><br>
 <h2 align="center">Fund challenge  </h2><h3 align="center"> Mysterious investor puts 1000USD on the table for an orphanage. Can the public match another 1000USD? Mysterious budget investor puts out 15USD to buy 15 water filters. Can the locals match another 15USD?</h3>
 <br><br>
-
-
 <h2 align="center">Niche Crowdfunding</h2><h3 align="center">Ultra-specific fund-raising.
 <a href="https://www.honeyfund.com">Honeyfund</a> proved that a niche finance app could raise lots of money. We're going to build one generic fund-raising app that can be forked and used for specific purposes: cleaning garbage, solar energy, herbal medicine, solar energy and more. 
 </h3> 
@@ -85,7 +83,12 @@ India planted 50 million trees in Summer 2016, can apps make the tree planting p
 Found a donation app, can we clone this?
 https://github.com/sscaff1/hopePing
 </p>
-
+<h2 align="cemter">AI Byzantine Chess></h2><h3 align="center">
+Online chess. Teams play head to head, openly advised by AIs. They discuss the moves in public. Infiltrators, spies and double agents are permitted. Each team plays for a crowdfunded prize fund. The winning team wins money for their sponsored project. 75 percent for the winner, 25 percent for the second place team</h3>
+</h3>
+<p align="center">
+https://github.com/Microflow/AI-Byzantine-Chess
+</p>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
@@ -107,7 +110,7 @@ https://github.com/sscaff1/hopePing
 
 
 
-<h1 align="center">Other PRogrammer's App. Downloadable Now</h1>
+<h1 align="center">Other Programmer's Apps. Downloadable Now</h1>
 
 <h2 align="center">Apps that Solve Food Waste: Food Sharing</h2>
 
