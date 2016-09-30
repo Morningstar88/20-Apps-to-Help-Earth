@@ -21,6 +21,7 @@ Then, add a link to the bookmark ("Useful Tips Section"), from within the same p
 <h1 align="center"> 20-Apps-to-Help-Earth :bulb:</h1>
 
 <h2>A collection of mobile and web apps solving water shortages, deforestation, poverty, unemployment, and food waste. In 2016, we can create decentralized change without corporate interference...</h2> 
+<h2>One of our major aims is to make crowdfunding fun, by turning the fundraising environment into a game.</h2>
 
 <p align="center">
 <img src="http://i.imgur.com/42bYJfQ.jpg">
