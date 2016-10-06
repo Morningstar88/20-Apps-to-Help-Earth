@@ -20,7 +20,7 @@ Then, add a link to the bookmark ("Useful Tips Section"), from within the same p
 
 <h1 align="center"> 20-Apps-to-Help-Earth :bulb:</h1>
 
-<h2>A collection of mobile and web apps solving water shortages, deforestation, poverty, unemployment, and food waste. In 2016, we can create decentralized change without corporate interference...</h2> 
+<h2>This repo is an overview of software that our volunteer team hopes to build over the next 2-20 years. Most of these apps are only in the idea stage for now, but some prototypes have been built on Codepen. Each app starts to solve critical problems like water shortages, deforestation, poverty, unemployment, and food waste. In 2016, we can create decentralized change without corporate interference...</h2> 
 <h2>One of our major aims is to make crowdfunding fun, by turning the fundraising environment into a game.</h2>
 <h2>Here's the 
 <a href="https://www.reddit.com/r/Futurology/comments/55w405/brainstorming_industries_of_the_future_jobs_for/">timeline we're building</a>
