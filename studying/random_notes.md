@@ -53,3 +53,48 @@ modification time is within 15 minutes (or whatever the timeout is set
 to in sudoers).
 [...]
 /var/lib/sudo           Directory containing time stamps
+
+
+*
+
+##What Does -Y Flag Mean (Auto Yes)
+
+http://stackoverflow.com/questions/36873361/what-is-the-y-flag-used-for-in-apt-get-install
+
+*
+
+##Sudo For Beginners
+
+The following tutorial and website is excellent:
+
+https://linuxacademy.com/blog/linux/linux-commands-for-beginners-sudo/
+
+*
+
+Why is it better than the alternative?
+
+Sudo is the best and safest way to elevate privileges.  Lets take a look at another way of doing things.  The switch user command, “su” will ask you for the root password and give you a superuser prompt, signified by the # symbol.  That # symbol means “DANGER! YOUR LOGGED IN AS ROOT!”  The first command you issue may go well.  But your forgetfulness will cause you to stay logged in as root.  One bad typo and BAM!  You erased the entire hard drive instead of that fake mp3 you downloaded. 
+
+*
+
+##HTTPS RED AND CROSSED OUT
+
+http://security.stackexchange.com/questions/85698/https-icon-red-and-crossed-out-chrome-browser
+
+https://askleo.com/why_is_there_a_slash_through_the_https_in_my_browsers_address_bar/
+
+*
+
+##How to fix untrusted HTTPS on Digital Ocean
+
+https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-14-04
+
+###How To Secure Nginx with Let's Encrypt on Ubuntu 14.04
+
+
+
+
+##Cron Daemon
+
+https://linuxacademy.com/blog/linux/the-cron-daemon/
+
