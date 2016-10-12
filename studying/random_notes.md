@@ -1,4 +1,4 @@
-#Random Study Notes. Mainly Linus
+#Random Study Notes. Mainly Linux
 
 ##What's the difference between curl and wget
 
