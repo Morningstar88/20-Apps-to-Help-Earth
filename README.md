@@ -1,22 +1,16 @@
-<!-- TODO LIST
 
-- ADD page jumps:
-
-<h2 id="tips">Useful Tips Section</h2>
-Then, add a link to the bookmark ("Useful Tips Section"), from within the same page:
-
-<a href="#tips">Visit the Useful Tips Section</a>
-
-
-
-
--->
+<style>
+  body {
+    font-family: 'Josefin Sans';
+    color: #080808;          
+  } 
+    
+</style>
 
 
 
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap" rel="stylesheet">
 
-
-<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 
 <h1 align="center"> 20-Apps-to-Help-Earth :bulb:</h1>
 
