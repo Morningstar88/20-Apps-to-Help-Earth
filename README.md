@@ -1,16 +1,4 @@
 
-<style>
-  body {
-    font-family: 'Josefin Sans';
-    color: #080808;          
-  } 
-    
-</style>
-
-
-
-<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap" rel="stylesheet">
-
 
 <h1 align="center"> 20-Apps-to-Help-Earth :bulb:</h1>
 
